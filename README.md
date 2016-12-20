@@ -1,6 +1,6 @@
 # Awesome Machine Learning for Cyber Security [![Awesom](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://github.com/jivoi/awesome-ml-for-cybersecurity/raw/master/cyber-ml-logo.png" align="right"](https://github.com/jivoi/awesome-ml-for-cybersecurity)
+[<img src="https://github.com/jivoi/awesome-ml-for-cybersecurity/raw/master/cyber-ml-logo.png" align="right">](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 
 A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security.
 
@@ -14,11 +14,11 @@ A curated list of amazingly awesome tools and resources related to the use of ma
  - [Course](#-courses)
  - [Miscellaneou](#-miscellaneous)
 
-## [](#table-of-contents) Contributing
+## [↑](#table-of-contents) Contributing
 
 Please read [CONTRIBUTIN](./CONTRIBUTING.md) if you wish to add tools or resources.
 
-## [](#table-of-contents) Datasets
+## [↑](#table-of-contents) Datasets
 
 * [Samples of Security Related Dat](SecRepo.com)
 * [DARPA Intrusion Detection Data Set](https://www.ll.mit.edu/ideval/data/)
@@ -31,7 +31,7 @@ Please read [CONTRIBUTIN](./CONTRIBUTING.md) if you wish to add tools or resourc
 * [Multi-Source Cyber-Security Event](http://csr.lanl.gov/data/cyber1/)
 * [Malware Training Sets: A machine learning dataset for everyon](http://marcoramilli.blogspot.cz/2016/12/malware-training-sets-machine-learning.html)
 
-## [](#table-of-contents) Papers
+## [↑](#table-of-contents) Papers
 
 * [Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Network](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/melicher)
 * [Outside the Closed World: On Using Machine Learning for Network Intrusion Detectio](http://ieeexplore.ieee.org/document/5504793/?reload=true)
@@ -50,13 +50,13 @@ Please read [CONTRIBUTIN](./CONTRIBUTING.md) if you wish to add tools or resourc
 * [PAYL – Anomalous Payload-based Network Intrusion Detectio](http://www.covert.io/research-papers/security/PAYL%20-%20Anomalous%20Payload-based%20Network%20Intrusion%20Detection.pdf)
 * [Anagram – A Content Anomaly Detector Resistant to Mimicry Attac](http://www.covert.io/research-papers/security/Anagram%20-%20A%20Content%20Anomaly%20Detector%20Resistant%20to%20Mimicry%20Attack.pdf)
 
-## [](#table-of-contents) Books
+## [↑](#table-of-contents) Books
 
 * [Data Mining and Machine Learning in Cybersecurit](https://www.amazon.com/Data-Mining-Machine-Learning-Cybersecurity/dp/1439839425)
 * [Machine Learning and Data Mining for Computer Securit](https://www.amazon.com/Machine-Learning-Mining-Computer-Security/dp/184628029X)
 * [Network Anomaly Detection: A Machine Learning Perspectiv](https://www.amazon.com/Network-Anomaly-Detection-Learning-Perspective/dp/1466582081)
 
-## [](#table-of-contents) Talks
+## [↑](#table-of-contents) Talks
 
 * [Using Machine Learning to Support Information Securit](https://www.youtube.com/watch?v=tukidI5vuBs)
 * [Defending Networks with Incomplete Informatio](https://www.youtube.com/watch?v=36IT9VgGr0g)
@@ -74,7 +74,7 @@ Please read [CONTRIBUTIN](./CONTRIBUTING.md) if you wish to add tools or resourc
 * [Build an Antivirus in 5 Min – Fresh Machine Learning #7. A fun video to watch](https://www.youtube.com/watch?v=iLNHVwSu9EA&t=245s)
 * [Hunting for Malware with Machine Learning](https://www.youtube.com/watch?v=zT-4zdtvR30)
 
-## [](#table-of-contents) Tutorials
+## [↑](#table-of-contents) Tutorials
 
 * [Click Security Data Hacking Projec](http://clicksecurity.github.io/data_hacking/)
 * [Using Neural Networks to generate human readable passwords](http://fsecurify.com/using-neural-networks-to-generate-human-readable-passwords/)
@@ -85,11 +85,11 @@ Please read [CONTRIBUTIN](./CONTRIBUTING.md) if you wish to add tools or resourc
 * [Data mining for network security and intrusion detectio](https://www.r-bloggers.com/data-mining-for-network-security-and-intrusion-detection/)
 * [An Introduction to Machine Learning for Cybersecurity and Threat Huntin](http://blog.sqrrl.com/an-introduction-to-machine-learning-for-cybersecurity-and-threat-hunting)
 
-## [](#table-of-contents) Courses
+## [↑](#table-of-contents) Courses
 
 * [Data Mining for Cyber Security by Stanfor](http://web.stanford.edu/class/cs259d/)
 
-## [](#table-of-contents) Miscellaneous
+## [↑](#table-of-contents) Miscellaneous
 
 * [System predicts 85 percent of cyber-attacks using input from human exper](http://news.mit.edu/2016/ai-system-predicts-85-percent-cyber-attacks-using-input-human-experts-0418)
 * [A list of open source projects in cyber security using machine learnin](http://www.mlsecproject.org/#open-source-projects)
