@@ -87,7 +87,7 @@ Please read [CONTRIBUTIN](./CONTRIBUTING.md) if you wish to add tools or resourc
 
 ## [↑](#table-of-contents) Courses
 
-* [Data Mining for Cyber Security by Stanfor](http://web.stanford.edu/class/cs259d/)
+* [Data Mining for Cyber Security by Stanford](http://web.stanford.edu/class/cs259d/)
 
 ## [↑](#table-of-contents) Miscellaneous
 
