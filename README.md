@@ -48,6 +48,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Nazca – Detecting Malware Distribution in Large-Scale Networks](http://www.covert.io/research-papers/security/Nazca%20-%20%20Detecting%20Malware%20Distribution%20in%20Large-Scale%20Networks.pdf)
 * [PAYL – Anomalous Payload-based Network Intrusion Detection](http://www.covert.io/research-papers/security/PAYL%20-%20Anomalous%20Payload-based%20Network%20Intrusion%20Detection.pdf)
 * [Anagram – A Content Anomaly Detector Resistant to Mimicry Attacks](http://www.covert.io/research-papers/security/Anagram%20-%20A%20Content%20Anomaly%20Detector%20Resistant%20to%20Mimicry%20Attack.pdf)
+* [Applications of Machine Learning in Cyber Security](https://www.researchgate.net/publication/283083699_Applications_of_Machine_Learning_in_Cyber_Security)
 
 ## [↑](#table-of-contents) Books
 
@@ -72,6 +73,11 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Packet Capture Village – Theodora Titonis – How Machine Learning Finds Malware](https://www.youtube.com/watch?v=2cQRSPFSY-s)
 * [Build an Antivirus in 5 Min – Fresh Machine Learning #7. A fun video to watch](https://www.youtube.com/watch?v=iLNHVwSu9EA&t=245s)
 * [Hunting for Malware with Machine Learning](https://www.youtube.com/watch?v=zT-4zdtvR30)
+* [Machine Learning for Threat Detection](https://www.youtube.com/watch?v=qVwktOa-F34)
+* [Machine Learning and the Cloud: Disrupting Threat Detection and Prevention](https://www.youtube.com/watch?v=fRklX97iGIw)
+* [Fraud detection using machine learning & deep learning](https://www.youtube.com/watch?v=gHtN4jU69W0)
+* [The Applications Of Deep Learning On Traffic Identification](https://www.youtube.com/watch?v=B7OKgC3AJVM)
+* [Defending Networks With Incomplete Information: A Machine Learning Approach](https://www.youtube.com/watch?v=_0CRSF6yPB4)
 
 ## [↑](#table-of-contents) Tutorials
 
