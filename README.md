@@ -78,6 +78,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Fraud detection using machine learning & deep learning](https://www.youtube.com/watch?v=gHtN4jU69W0)
 * [The Applications Of Deep Learning On Traffic Identification](https://www.youtube.com/watch?v=B7OKgC3AJVM)
 * [Defending Networks With Incomplete Information: A Machine Learning Approach](https://www.youtube.com/watch?v=_0CRSF6yPB4)
+* [Machine Learning & Data Science](https://vimeo.com/112702666)
 
 ## [↑](#table-of-contents) Tutorials
 
