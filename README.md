@@ -30,6 +30,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Malicious URLs Data Sets](http://sysnet.ucsd.edu/projects/url/)
 * [Multi-Source Cyber-Security Events](http://csr.lanl.gov/data/cyber1/)
 * [Malware Training Sets: A machine learning dataset for everyone](http://marcoramilli.blogspot.cz/2016/12/malware-training-sets-machine-learning.html)
+* [KDD Cup 1999 Data](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)
 
 ## [↑](#table-of-contents) Papers
 
