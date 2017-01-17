@@ -90,6 +90,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Using deep learning to break a Captcha system](https://deepmlblog.wordpress.com/2016/01/03/how-to-break-a-captcha-system/)
 * [Data mining for network security and intrusion detection](https://www.r-bloggers.com/data-mining-for-network-security-and-intrusion-detection/)
 * [An Introduction to Machine Learning for Cybersecurity and Threat Hunting](http://blog.sqrrl.com/an-introduction-to-machine-learning-for-cybersecurity-and-threat-hunting)
+* [Applying Machine Learning to Improve Your Intrusion Detection System](https://securityintelligence.com/applying-machine-learning-to-improve-your-intrusion-detection-system/)
 
 ## [↑](#table-of-contents) Courses
 
