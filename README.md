@@ -49,6 +49,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [PAYL – Anomalous Payload-based Network Intrusion Detection](http://www.covert.io/research-papers/security/PAYL%20-%20Anomalous%20Payload-based%20Network%20Intrusion%20Detection.pdf)
 * [Anagram – A Content Anomaly Detector Resistant to Mimicry Attacks](http://www.covert.io/research-papers/security/Anagram%20-%20A%20Content%20Anomaly%20Detector%20Resistant%20to%20Mimicry%20Attack.pdf)
 * [Applications of Machine Learning in Cyber Security](https://www.researchgate.net/publication/283083699_Applications_of_Machine_Learning_in_Cyber_Security)
+* [Data Mining для построения систем обнаружения сетевых атак (RUS)](http://vak.ed.gov.ru/az/server/php/filer.php?table=att_case&fld=autoref&key%5B%5D=100003407)
 
 ## [↑](#table-of-contents) Books
 
