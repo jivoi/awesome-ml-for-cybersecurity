@@ -97,6 +97,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Data mining for network security and intrusion detection](https://www.r-bloggers.com/data-mining-for-network-security-and-intrusion-detection/)
 * [An Introduction to Machine Learning for Cybersecurity and Threat Hunting](http://blog.sqrrl.com/an-introduction-to-machine-learning-for-cybersecurity-and-threat-hunting)
 * [Applying Machine Learning to Improve Your Intrusion Detection System](https://securityintelligence.com/applying-machine-learning-to-improve-your-intrusion-detection-system/)
+* [Analyzing BotNets with Suricata & Machine Learning](http://blogs.splunk.com/2017/01/30/analyzing-botnets-with-suricata-machine-learning/)
 
 ## [↑](#table-of-contents) Courses
 
