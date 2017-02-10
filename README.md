@@ -31,6 +31,8 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Multi-Source Cyber-Security Events](http://csr.lanl.gov/data/cyber1/)
 * [Malware Training Sets: A machine learning dataset for everyone](http://marcoramilli.blogspot.cz/2016/12/malware-training-sets-machine-learning.html)
 * [KDD Cup 1999 Data](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)
+* [Web Attack Payloads](https://github.com/foospidy/payloads)
+* [WAF Malicious Queries Data Sets](https://github.com/faizann24/Fwaf-Machine-Learning-driven-Web-Application-Firewall)
 
 ## [↑](#table-of-contents) Papers
 
@@ -98,6 +100,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [An Introduction to Machine Learning for Cybersecurity and Threat Hunting](http://blog.sqrrl.com/an-introduction-to-machine-learning-for-cybersecurity-and-threat-hunting)
 * [Applying Machine Learning to Improve Your Intrusion Detection System](https://securityintelligence.com/applying-machine-learning-to-improve-your-intrusion-detection-system/)
 * [Analyzing BotNets with Suricata & Machine Learning](http://blogs.splunk.com/2017/01/30/analyzing-botnets-with-suricata-machine-learning/)
+* [fWaf – Machine learning driven Web Application Firewall](http://fsecurify.com/fwaf-machine-learning-driven-web-application-firewall/)
 
 ## [↑](#table-of-contents) Courses
 
