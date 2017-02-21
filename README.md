@@ -34,6 +34,9 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Web Attack Payloads](https://github.com/foospidy/payloads)
 * [WAF Malicious Queries Data Sets](https://github.com/faizann24/Fwaf-Machine-Learning-driven-Web-Application-Firewall)
 * [Malware Training Data Sets](https://github.com/marcoramilli/MalwareTrainingSets)
+* [Aktaion Data Sets](https://github.com/jzadeh/Aktaion/tree/master/data)
+* [CRIME Database from DeepEnd Research](https://www.dropbox.com/sh/7fo4efxhpenexqp/AADHnRKtL6qdzCdRlPmJpS8Aa/CRIME?dl=0)
+* [Publicly available PCAP files](http://www.netresec.com/?page=PcapFiles)
 
 ## [↑](#table-of-contents) Papers
 
@@ -88,6 +91,9 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [The Applications Of Deep Learning On Traffic Identification](https://www.youtube.com/watch?v=B7OKgC3AJVM)
 * [Defending Networks With Incomplete Information: A Machine Learning Approach](https://www.youtube.com/watch?v=_0CRSF6yPB4)
 * [Machine Learning & Data Science](https://vimeo.com/112702666)
+* [Advances in Cloud-Scale Machine Learning for Cyber-Defense](https://www.youtube.com/watch?v=skSIIvvZFIk)
+* [Applied Machine Learning: Defeating Modern Malicious Documents](https://www.youtube.com/watch?v=ZAuCEgA3itI)
+* [Automated Prevention of Ransomware with Machine Learning and GPOs](https://www.rsaconference.com/writable/presentations/file_upload/spo2-t11_automated-prevention-of-ransomware-with-machine-learning-and-gpos.pdf)
 
 ## [↑](#table-of-contents) Tutorials
 
@@ -106,6 +112,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 ## [↑](#table-of-contents) Courses
 
 * [Data Mining for Cyber Security by Stanford](http://web.stanford.edu/class/cs259d/)
+* [Data Science and Machine Learning for Infosec](http://www.pentesteracademy.com/course?id=30)
 
 ## [↑](#table-of-contents) Miscellaneous
 
