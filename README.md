@@ -108,6 +108,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Applying Machine Learning to Improve Your Intrusion Detection System](https://securityintelligence.com/applying-machine-learning-to-improve-your-intrusion-detection-system/)
 * [Analyzing BotNets with Suricata & Machine Learning](http://blogs.splunk.com/2017/01/30/analyzing-botnets-with-suricata-machine-learning/)
 * [fWaf – Machine learning driven Web Application Firewall](http://fsecurify.com/fwaf-machine-learning-driven-web-application-firewall/)
+* [Deep Session Learning for Cyber Security](https://blog.cyberreboot.org/deep-session-learning-for-cyber-security-e7c0f6804b81#.eo2m4alid)
 
 ## [↑](#table-of-contents) Courses
 
