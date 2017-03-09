@@ -94,6 +94,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Advances in Cloud-Scale Machine Learning for Cyber-Defense](https://www.youtube.com/watch?v=skSIIvvZFIk)
 * [Applied Machine Learning: Defeating Modern Malicious Documents](https://www.youtube.com/watch?v=ZAuCEgA3itI)
 * [Automated Prevention of Ransomware with Machine Learning and GPOs](https://www.rsaconference.com/writable/presentations/file_upload/spo2-t11_automated-prevention-of-ransomware-with-machine-learning-and-gpos.pdf)
+* [Learning to Detect Malware by Mining the Security Literature](https://www.usenix.org/conference/enigma2017/conference-program/presentation/dumitras)
 
 ## [↑](#table-of-contents) Tutorials
 
