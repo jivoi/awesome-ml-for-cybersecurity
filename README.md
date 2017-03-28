@@ -110,6 +110,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Analyzing BotNets with Suricata & Machine Learning](http://blogs.splunk.com/2017/01/30/analyzing-botnets-with-suricata-machine-learning/)
 * [fWaf – Machine learning driven Web Application Firewall](http://fsecurify.com/fwaf-machine-learning-driven-web-application-firewall/)
 * [Deep Session Learning for Cyber Security](https://blog.cyberreboot.org/deep-session-learning-for-cyber-security-e7c0f6804b81#.eo2m4alid)
+* [DMachine Learning for Malware Detection](http://resources.infosecinstitute.com/machine-learning-malware-detection/)
 
 ## [↑](#table-of-contents) Courses
 
