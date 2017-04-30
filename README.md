@@ -112,6 +112,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [fWaf – Machine learning driven Web Application Firewall](http://fsecurify.com/fwaf-machine-learning-driven-web-application-firewall/)
 * [Deep Session Learning for Cyber Security](https://blog.cyberreboot.org/deep-session-learning-for-cyber-security-e7c0f6804b81#.eo2m4alid)
 * [DMachine Learning for Malware Detection](http://resources.infosecinstitute.com/machine-learning-malware-detection/)
+* [ShadowBrokers Leak: A Machine Learning Approach](https://marcoramilli.blogspot.ru/2017/04/shadowbrokers-leak-machine-learning.html)
 
 ## [↑](#table-of-contents) Courses
 
