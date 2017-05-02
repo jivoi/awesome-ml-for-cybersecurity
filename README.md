@@ -96,6 +96,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Automated Prevention of Ransomware with Machine Learning and GPOs](https://www.rsaconference.com/writable/presentations/file_upload/spo2-t11_automated-prevention-of-ransomware-with-machine-learning-and-gpos.pdf)
 * [Learning to Detect Malware by Mining the Security Literature](https://www.usenix.org/conference/enigma2017/conference-program/presentation/dumitras)
 * [Clarence Chio and Anto Joseph - Practical Machine Learning in Infosecurity](https://conference.hitb.org/hitbsecconf2017ams/materials/D1T3%20-%20Clarence%20Chio%20and%20Anto%20Joseph%20-%20Practical%20Machine%20Learning%20in%20Infosecurity.pdf)
+* [Advances in Cloud-Scale Machine Learning for Cyberdefense](https://www.youtube.com/watch?v=6Slj2FV9CLA)
 
 ## [↑](#table-of-contents) Tutorials
 
