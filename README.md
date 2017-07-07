@@ -62,6 +62,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Методы интеллектуального анализа данных и обнаружение вторжений (RUS)](http://vestnik.sibsutis.ru/uploads/1459329553_3576.pdf)
 * [Dimension Reduction in Network Attacks Detection Systems](http://elib.bsu.by/bitstream/123456789/120105/1/v17no3p284.pdf)
 * [Rise of the machines: Machine Learning & its cyber security applications](https://www.nccgroup.trust/globalassets/our-research/uk/whitepapers/2017/rise-of-the-machines-preliminaries-wp-new-template-final_web.pdf)
+* [Machine Learning in Cyber Security: Age of the Centaurs](https://go.recordedfuture.com/hubfs/white-papers/machine-learning.pdf)
 
 ## [↑](#table-of-contents) Books
 
