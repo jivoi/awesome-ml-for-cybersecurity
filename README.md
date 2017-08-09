@@ -71,6 +71,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Machine Learning and Data Mining for Computer Security](https://www.amazon.com/Machine-Learning-Mining-Computer-Security/dp/184628029X)
 * [Network Anomaly Detection: A Machine Learning Perspective](https://www.amazon.com/Network-Anomaly-Detection-Learning-Perspective/dp/1466582081)
 * [Machine Learning and Security: Protecting Systems with Data and Algorithms](https://www.amazon.com/Machine-Learning-Security-Protecting-Algorithms/dp/1491979909)
+* [Introduction To Artificial Intelligence For Security Professionals](http://defense.ballastsecurity.net/static/IntroductionToArtificialIntelligenceForSecurityProfessionals_Cylance.pdf)
 
 ## [↑](#table-of-contents) Talks
 
