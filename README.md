@@ -104,6 +104,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Advances in Cloud-Scale Machine Learning for Cyberdefense](https://www.youtube.com/watch?v=6Slj2FV9CLA)
 * [Machine Learning-Based Techniques For Network Intrusion Detection](https://www.youtube.com/watch?v=-EUJgpiJ8Jo)
 * [Practical Machine Learning in Infosec](https://www.youtube.com/watch?v=YF2dm6GZf2U)
+* [AI and Security](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/07/AI_and_Security_Dawn_Song.pdf)
 
 ## [↑](#table-of-contents) Tutorials
 
