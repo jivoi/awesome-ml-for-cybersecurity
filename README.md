@@ -64,6 +64,8 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Dimension Reduction in Network Attacks Detection Systems](http://elib.bsu.by/bitstream/123456789/120105/1/v17no3p284.pdf)
 * [Rise of the machines: Machine Learning & its cyber security applications](https://www.nccgroup.trust/globalassets/our-research/uk/whitepapers/2017/rise-of-the-machines-preliminaries-wp-new-template-final_web.pdf)
 * [Machine Learning in Cyber Security: Age of the Centaurs](https://go.recordedfuture.com/hubfs/white-papers/machine-learning.pdf)
+* [Automatically Evading Classifiers A Case Study on PDF Malware Classifiers](https://www.cs.virginia.edu/~evans/pubs/ndss2016/)
+* [Weaponizing Data Science for Social Engineering — Automated E2E Spear Phishing on Twitter](https://www.blackhat.com/docs/us-16/materials/us-16-Seymour-Tully-Weaponizing-Data-Science-For-Social-Engineering-Automated-E2E-Spear-Phishing-On-Twitter.pdf)
 
 ## [↑](#table-of-contents) Books
 
@@ -105,6 +107,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Machine Learning-Based Techniques For Network Intrusion Detection](https://www.youtube.com/watch?v=-EUJgpiJ8Jo)
 * [Practical Machine Learning in Infosec](https://www.youtube.com/watch?v=YF2dm6GZf2U)
 * [AI and Security](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/07/AI_and_Security_Dawn_Song.pdf)
+* [AI in InfoSec](https://vimeo.com/230502013)
 
 ## [↑](#table-of-contents) Tutorials
 
