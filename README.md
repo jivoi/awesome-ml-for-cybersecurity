@@ -66,6 +66,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Machine Learning in Cyber Security: Age of the Centaurs](https://go.recordedfuture.com/hubfs/white-papers/machine-learning.pdf)
 * [Automatically Evading Classifiers A Case Study on PDF Malware Classifiers](https://www.cs.virginia.edu/~evans/pubs/ndss2016/)
 * [Weaponizing Data Science for Social Engineering — Automated E2E Spear Phishing on Twitter](https://www.blackhat.com/docs/us-16/materials/us-16-Seymour-Tully-Weaponizing-Data-Science-For-Social-Engineering-Automated-E2E-Spear-Phishing-On-Twitter.pdf)
+* [Machine Learning: A Threat-Hunting Reality Check](https://www.countercept.com/assets/Uploads/whitepapers/MWRI-Countercept-Machine-Learning-Whitepaper-2017-04-01.pdf)
 
 ## [↑](#table-of-contents) Books
 
