@@ -109,6 +109,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Practical Machine Learning in Infosec](https://www.youtube.com/watch?v=YF2dm6GZf2U)
 * [AI and Security](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/07/AI_and_Security_Dawn_Song.pdf)
 * [AI in InfoSec](https://vimeo.com/230502013)
+* [Beyond the Blacklists: Detecting Malicious URL Through Machine Learning](https://www.youtube.com/watch?v=Kd3svc9HZ0Y)
 
 ## [↑](#table-of-contents) Tutorials
 
