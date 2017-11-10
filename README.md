@@ -115,6 +115,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [AI in InfoSec](https://vimeo.com/230502013)
 * [Beyond the Blacklists: Detecting Malicious URL Through Machine Learning](https://www.youtube.com/watch?v=Kd3svc9HZ0Y)
 * [Machine Learning Fueled Cyber Threat Hunting](https://www.youtube.com/watch?v=c-c-IQ5pFXw)
+* [Weaponizing Machine Learning: Humanity Was Overrated](https://www.youtube.com/watch?v=QbX7BhjOOvY)
 
 ## [↑](#table-of-contents) Tutorials
 
