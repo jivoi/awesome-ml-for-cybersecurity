@@ -116,6 +116,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Beyond the Blacklists: Detecting Malicious URL Through Machine Learning](https://www.youtube.com/watch?v=Kd3svc9HZ0Y)
 * [Machine Learning Fueled Cyber Threat Hunting](https://www.youtube.com/watch?v=c-c-IQ5pFXw)
 * [Weaponizing Machine Learning: Humanity Was Overrated](https://www.youtube.com/watch?v=QbX7BhjOOvY)
+* [Machine Learning, Offense, and the future of Automation](https://docs.google.com/presentation/d/16BWLRm4aNdxToJO-_63s1gLlw-hbSXlQE-jSzzsHkIw/edit#slide=id.g2ae4261e6b_0_0)
 
 ## [↑](#table-of-contents) Tutorials
 
