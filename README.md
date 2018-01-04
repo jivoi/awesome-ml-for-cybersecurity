@@ -38,6 +38,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [CRIME Database from DeepEnd Research](https://www.dropbox.com/sh/7fo4efxhpenexqp/AADHnRKtL6qdzCdRlPmJpS8Aa/CRIME?dl=0)
 * [Publicly available PCAP files](http://www.netresec.com/?page=PcapFiles)
 * [2007 TREC Public Spam Corpus](https://plg.uwaterloo.ca/~gvcormac/treccorpus07/)
+* [Drebin Android Malware Dataset](https://www.sec.cs.tu-bs.de/~danarp/drebin/)
 
 ## [↑](#table-of-contents) Papers
 
