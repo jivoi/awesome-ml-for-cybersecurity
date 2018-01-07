@@ -37,6 +37,7 @@
 * [Aktaion 数据集](https://github.com/jzadeh/Aktaion/tree/master/data)
 * [DeepEnd 研究中的犯罪数据集](https://www.dropbox.com/sh/7fo4efxhpenexqp/AADHnRKtL6qdzCdRlPmJpS8Aa/CRIME?dl=0)
 * [公开可用的 PCAP 文件数据集](http://www.netresec.com/?page=PcapFiles)
+* [2007年TREC公开垃圾邮件全集](https://plg.uwaterloo.ca/~gvcormac/treccorpus07/)
 
 ## [↑](#table-of-contents) 论文
 
@@ -61,12 +62,23 @@
 * [应用神经网络在计算机安全任务分层 (RUS)](http://engjournal.ru/articles/534/534.pdf)
 * [数据挖掘技术与入侵检测 (RUS)](http://vestnik.sibsutis.ru/uploads/1459329553_3576.pdf)
 * [网络入侵检测系统中的降维](http://elib.bsu.by/bitstream/123456789/120105/1/v17no3p284.pdf)
+* [机器的兴起：机器学习与其在网络安全中的应用](https://www.nccgroup.trust/globalassets/our-research/uk/whitepapers/2017/rise-of-the-machines-preliminaries-wp-new-template-final_web.pdf)
+* [网络安全中的机器学习：半人马纪元](https://go.recordedfuture.com/hubfs/white-papers/machine-learning.pdf)
+* [自动逃避分类：PDF 恶意软件分类案例研究](https://www.cs.virginia.edu/~evans/pubs/ndss2016/)
+* [社会工程在数据科学的武器化-在 Twitter 上实现自动 E2E 鱼叉钓鱼](https://www.blackhat.com/docs/us-16/materials/us-16-Seymour-Tully-Weaponizing-Data-Science-For-Social-Engineering-Automated-E2E-Spear-Phishing-On-Twitter.pdf)
+* [机器学习：威胁狩猎的现实检查](https://www.countercept.com/assets/Uploads/whitepapers/MWRI-Countercept-Machine-Learning-Whitepaper-2017-04-01.pdf)
+* [基于神经网络图嵌入的跨平台二进制程序代码相似度检测](https://arxiv.org/abs/1708.06525)
+* [整合隐私保护机器学习的实用安全](https://eprint.iacr.org/2017/281.pdf)
+* [DeepLog：基于深度学习的系统日志异常检测与诊断](https://acmccs.github.io/papers/p1285-duA.pdf)
+* [eXpose：带有嵌入的字符级CNN，用于检测恶意 URL、文件路径与注册表](https://arxiv.org/pdf/1702.08568.pdf)
 
 ## [↑](#table-of-contents) 书籍
 
 * [网络安全中的数据挖掘与机器学习](https://www.amazon.com/Data-Mining-Machine-Learning-Cybersecurity/dp/1439839425)
 * [网络安全中的机器学习与数据挖掘](https://www.amazon.com/Machine-Learning-Mining-Computer-Security/dp/184628029X)
 * [网络异常检测：机器学习观点](https://www.amazon.com/Network-Anomaly-Detection-Learning-Perspective/dp/1466582081)
+* [机器学习与安全：用数据和算法保护系统](https://www.amazon.com/Machine-Learning-Security-Protecting-Algorithms/dp/1491979909)
+* [写给安全专家的人工智能介绍](http://defense.ballastsecurity.net/static/IntroductionToArtificialIntelligenceForSecurityProfessionals_Cylance.pdf)
 
 ## [↑](#table-of-contents) 演讲
 
@@ -95,6 +107,16 @@
 * [应用机器学习：打败现代恶意文档](https://www.youtube.com/watch?v=ZAuCEgA3itI)
 * [使用机器学习与 GPO 自动防御勒索软件](https://www.rsaconference.com/writable/presentations/file_upload/spo2-t11_automated-prevention-of-ransomware-with-machine-learning-and-gpos.pdf)
 * [通过挖掘安全文献检测恶意软件](https://www.usenix.org/conference/enigma2017/conference-program/presentation/dumitras)
+* [信息安全中的机器学习实践](https://conference.hitb.org/hitbsecconf2017ams/materials/D1T3%20-%20Clarence%20Chio%20and%20Anto%20Joseph%20-%20Practical%20Machine%20Learning%20in%20Infosecurity.pdf)
+* [用于 Cyberdefensse 的机器学习](https://www.youtube.com/watch?v=6Slj2FV9CLA)
+* [基于机器学习的网络入侵检测技术](https://www.youtube.com/watch?v=-EUJgpiJ8Jo)
+* [信息安全中的机器学习实践](https://www.youtube.com/watch?v=YF2dm6GZf2U)
+* [AI 与安全](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/07/AI_and_Security_Dawn_Song.pdf)
+* [AI 与信息安全](https://vimeo.com/230502013)
+* [超越黑名单：通过机器学习检测恶意网址](https://www.youtube.com/watch?v=Kd3svc9HZ0Y)
+* [使用机器学习辅助网络威胁狩猎](https://www.youtube.com/watch?v=c-c-IQ5pFXw)
+* [机器学习的武器化：人性被高估](https://www.youtube.com/watch?v=QbX7BhjOOvY)
+* [机器学习：进攻与自动化的未来](https://www.youtube.com/watch?v=BWFdxAG_TGk)
 
 ## [↑](#table-of-contents) 教程
 
@@ -110,6 +132,11 @@
 * [使用 Suricata 与机器学习分析僵尸网络](http://blogs.splunk.com/2017/01/30/analyzing-botnets-with-suricata-machine-learning/)
 * [fWaf – 机器学习驱动的 Web 应用防火墙](http://fsecurify.com/fwaf-machine-learning-driven-web-application-firewall/)
 * [网络安全中的深度域学习](https://blog.cyberreboot.org/deep-session-learning-for-cyber-security-e7c0f6804b81#.eo2m4alid)
+* [DMachine Learning 用于恶意软件检测](http://resources.infosecinstitute.com/machine-learning-malware-detection/)
+* [ShadowBrokers 泄漏：机器学习方法](https://marcoramilli.blogspot.ru/2017/04/shadowbrokers-leak-machine-learning.html)
+* [信息安全领域的机器学习实践](https://docs.google.com/document/d/1v4plS1EhLBfjaz-9GHBqspTH7vnrJfqLrLjeP9k9i9A/edit)
+* [用于大规模数字犯罪取证的机器学习工具包](http://blog.trendmicro.com/trendlabs-security-intelligence/defplorex-machine-learning-toolkit-large-scale-ecrime-forensics/)
+* [机器学习检测 WebShell](https://github.com/lcatro/WebShell-Detect-By-Machine-Learning)
 
 ## [↑](#table-of-contents) 课程
 
@@ -126,7 +153,3 @@
 ![cc license](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
 许可证为 [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/)
-
-
-
-
