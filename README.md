@@ -29,7 +29,6 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [NSL-KDD Data Sets](https://github.com/defcom17/NSL_KDD)
 * [Malicious URLs Data Sets](http://sysnet.ucsd.edu/projects/url/)
 * [Multi-Source Cyber-Security Events](http://csr.lanl.gov/data/cyber1/)
-* [Malware Training Sets: A machine learning dataset for everyone](http://marcoramilli.blogspot.cz/2016/12/malware-training-sets-machine-learning.html)
 * [KDD Cup 1999 Data](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)
 * [Web Attack Payloads](https://github.com/foospidy/payloads)
 * [WAF Malicious Queries Data Sets](https://github.com/faizann24/Fwaf-Machine-Learning-driven-Web-Application-Firewall)
