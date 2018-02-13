@@ -71,6 +71,8 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Practical Secure Aggregation for Privacy-Preserving Machine Learning](https://eprint.iacr.org/2017/281.pdf)
 * [DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](https://acmccs.github.io/papers/p1285-duA.pdf)
 * [eXpose: A Character-Level Convolutional Neural Network with Embeddings For Detecting Malicious URLs, File Paths and Registry Keys](https://arxiv.org/pdf/1702.08568.pdf)
+* [Big Data Technologies for Security Event Correlation Based on Event Type Accounting (RUS)](http://cyberrus.com/wp-content/uploads/2018/02/2-16-524-17_1.-Kotenko.pdf)
+* [Investigation of The Use of Neural Networks for Detecting Low-Intensive Ddоs-Atak of Applied Level (RUS)](http://cyberrus.com/wp-content/uploads/2018/02/23-29-524-17_3.-Tarasov.pdf)
 
 
 ## [↑](#table-of-contents) Books
