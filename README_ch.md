@@ -71,6 +71,8 @@
 * [整合隐私保护机器学习的实用安全](https://eprint.iacr.org/2017/281.pdf)
 * [DeepLog：基于深度学习的系统日志异常检测与诊断](https://acmccs.github.io/papers/p1285-duA.pdf)
 * [eXpose：带有嵌入的字符级CNN，用于检测恶意 URL、文件路径与注册表](https://arxiv.org/pdf/1702.08568.pdf)
+* [基于 Event Type Accounting (RUS)、用于安全事件关联的大数据技术](http://cyberrus.com/wp-content/uploads/2018/02/2-16-524-17_1.-Kotenko.pdf)
+* [使用神经网络来检测应用级别的低强度拒绝服务攻击的调查](http://cyberrus.com/wp-content/uploads/2018/02/23-29-524-17_3.-Tarasov.pdf)
 
 ## [↑](#table-of-contents) 书籍
 
