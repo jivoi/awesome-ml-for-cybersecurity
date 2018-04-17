@@ -74,6 +74,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Big Data Technologies for Security Event Correlation Based on Event Type Accounting (RUS)](http://cyberrus.com/wp-content/uploads/2018/02/2-16-524-17_1.-Kotenko.pdf)
 * [Investigation of The Use of Neural Networks for Detecting Low-Intensive Ddоs-Atak of Applied Level (RUS)](http://cyberrus.com/wp-content/uploads/2018/02/23-29-524-17_3.-Tarasov.pdf)
 * [Detecting Malicious PowerShell Commands using Deep Neural Networks](https://arxiv.org/pdf/1804.04177.pdf)
+* [Machine Learning DDoS Detection for Consumer Internet of Things Devices](https://arxiv.org/pdf/1804.04159.pdf)
 
 
 ## [↑](#table-of-contents) Books
