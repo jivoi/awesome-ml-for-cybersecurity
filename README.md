@@ -76,7 +76,6 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Detecting Malicious PowerShell Commands using Deep Neural Networks](https://arxiv.org/pdf/1804.04177.pdf)
 * [Machine Learning DDoS Detection for Consumer Internet of Things Devices](https://arxiv.org/pdf/1804.04159.pdf)
 
-
 ## [↑](#table-of-contents) Books
 
 * [Data Mining and Machine Learning in Cybersecurity](https://www.amazon.com/Data-Mining-Machine-Learning-Cybersecurity/dp/1439839425)
@@ -143,7 +142,6 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [A Machine-Learning Toolkit for Large-scale eCrime Forensics](http://blog.trendmicro.com/trendlabs-security-intelligence/defplorex-machine-learning-toolkit-large-scale-ecrime-forensics/)
 * [WebShells Detection by Machine Learning](https://github.com/lcatro/WebShell-Detect-By-Machine-Learning)
 
-
 ## [↑](#table-of-contents) Courses
 
 * [Data Mining for Cyber Security by Stanford](http://web.stanford.edu/class/cs259d/)
@@ -153,6 +151,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 
 * [System predicts 85 percent of cyber-attacks using input from human experts](http://news.mit.edu/2016/ai-system-predicts-85-percent-cyber-attacks-using-input-human-experts-0418)
 * [A list of open source projects in cyber security using machine learning](http://www.mlsecproject.org/#open-source-projects)
+* [Source code about machine learning and security](https://github.com/13o-bbr-bbq/machine_learning_security)
 
 ## License
 
