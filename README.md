@@ -141,6 +141,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Practical Machine Learning in Infosec - Virtualbox Image and Stuff](https://docs.google.com/document/d/1v4plS1EhLBfjaz-9GHBqspTH7vnrJfqLrLjeP9k9i9A/edit)
 * [A Machine-Learning Toolkit for Large-scale eCrime Forensics](http://blog.trendmicro.com/trendlabs-security-intelligence/defplorex-machine-learning-toolkit-large-scale-ecrime-forensics/)
 * [WebShells Detection by Machine Learning](https://github.com/lcatro/WebShell-Detect-By-Machine-Learning)
+* [Building Machine Learning Models for the SOC](https://www.fireeye.com/blog/threat-research/2018/06/build-machine-learning-models-for-the-soc.html)
 
 ## [↑](#table-of-contents) Courses
 
