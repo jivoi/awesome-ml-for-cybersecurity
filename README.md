@@ -38,6 +38,8 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Publicly available PCAP files](http://www.netresec.com/?page=PcapFiles)
 * [2007 TREC Public Spam Corpus](https://plg.uwaterloo.ca/~gvcormac/treccorpus07/)
 * [Drebin Android Malware Dataset](https://www.sec.cs.tu-bs.de/~danarp/drebin/)
+* [AntiNex - Non-Attack Datasets from Recorded HTTP Network Traffic](https://github.com/jay-johnson/network-pipeline-datasets)
+* [AntiNex - Attack Datasets from Recorded HTTP Network Traffic](https://github.com/jay-johnson/antinex-datasets)
 
 ## [↑](#table-of-contents) Papers
 
@@ -75,6 +77,11 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Investigation of The Use of Neural Networks for Detecting Low-Intensive Ddоs-Atak of Applied Level (RUS)](http://cyberrus.com/wp-content/uploads/2018/02/23-29-524-17_3.-Tarasov.pdf)
 * [Detecting Malicious PowerShell Commands using Deep Neural Networks](https://arxiv.org/pdf/1804.04177.pdf)
 * [Machine Learning DDoS Detection for Consumer Internet of Things Devices](https://arxiv.org/pdf/1804.04159.pdf)
+
+## [↑](#table-of-contents) Jupyter Notebooks
+
+* [AntiNex - Building Deep Neural Networks for Defending Software Applications with Keras and Tensorflow](https://github.com/jay-johnson/antinex-core/blob/master/docker/notebooks/AntiNex-Protecting-Django.ipynb)
+* [AntiNex - Using Pre-trained Deep Neural Networks to Defend a Django Web Application with Keras and Tensorflow](https://github.com/jay-johnson/antinex-core/blob/master/docker/notebooks/AntiNex-Protecting-Django.ipynb)
 
 ## [↑](#table-of-contents) Books
 
@@ -142,6 +149,9 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [A Machine-Learning Toolkit for Large-scale eCrime Forensics](http://blog.trendmicro.com/trendlabs-security-intelligence/defplorex-machine-learning-toolkit-large-scale-ecrime-forensics/)
 * [WebShells Detection by Machine Learning](https://github.com/lcatro/WebShell-Detect-By-Machine-Learning)
 * [Building Machine Learning Models for the SOC](https://www.fireeye.com/blog/threat-research/2018/06/build-machine-learning-models-for-the-soc.html)
+* [AntiNex - Tuning Deep Neural Networks to Defend Software Systems using a Distributed, Containerized Stack](https://github.com/jay-johnson/train-ai-with-django-swagger-jwt)
+* [AntiNex - Predicting Attack Records on a Local Network with a Scalable Deployment using OpenShift and Kubernetes](https://github.com/jay-johnson/train-ai-with-django-swagger-jwt/tree/master/openshift)
+* [AntiNex - Building a Training Dataset from Recorded Attack and Non-Attack Network Traffic](https://github.com/jay-johnson/antinex-datasets/tree/master/v1/webapps/django)
 
 ## [↑](#table-of-contents) Courses
 
