@@ -73,6 +73,8 @@
 * [eXpose：带有嵌入的字符级CNN，用于检测恶意 URL、文件路径与注册表](https://arxiv.org/pdf/1702.08568.pdf)
 * [基于 Event Type Accounting (RUS)、用于安全事件关联的大数据技术](http://cyberrus.com/wp-content/uploads/2018/02/2-16-524-17_1.-Kotenko.pdf)
 * [使用神经网络来检测应用级别的低强度拒绝服务攻击的调查](http://cyberrus.com/wp-content/uploads/2018/02/23-29-524-17_3.-Tarasov.pdf)
+* [使用深度神经网络检测恶意 PowerShell 命令](https://arxiv.org/pdf/1804.04177.pdf)
+* [机器学习检测消费级 IoT 设备 DDoS](https://arxiv.org/pdf/1804.04159.pdf)
 
 ## [↑](#table-of-contents) 书籍
 
@@ -149,6 +151,7 @@
 
 * [使用人类专家的输入对网络攻击达到 85% 的预测系统](http://news.mit.edu/2016/ai-system-predicts-85-percent-cyber-attacks-using-input-human-experts-0418)
 * [使用机器学习的网络安全项目开源列表](http://www.mlsecproject.org/#open-source-projects)
+* [关于机器学习和安全的源码](https://github.com/13o-bbr-bbq/machine_learning_security)
 
 ## 许可证
 
