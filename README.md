@@ -85,6 +85,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Network Anomaly Detection: A Machine Learning Perspective](https://www.amazon.com/Network-Anomaly-Detection-Learning-Perspective/dp/1466582081)
 * [Machine Learning and Security: Protecting Systems with Data and Algorithms](https://www.amazon.com/Machine-Learning-Security-Protecting-Algorithms/dp/1491979909)
 * [Introduction To Artificial Intelligence For Security Professionals](http://defense.ballastsecurity.net/static/IntroductionToArtificialIntelligenceForSecurityProfessionals_Cylance.pdf)
+* [Mastering Machine Learning for Penetration Testing](https://www.packtpub.com/networking-and-servers/mastering-machine-learning-penetration-testing)
 
 ## [↑](#table-of-contents) Talks
 
@@ -155,6 +156,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [System predicts 85 percent of cyber-attacks using input from human experts](http://news.mit.edu/2016/ai-system-predicts-85-percent-cyber-attacks-using-input-human-experts-0418)
 * [A list of open source projects in cyber security using machine learning](http://www.mlsecproject.org/#open-source-projects)
 * [Source code about machine learning and security](https://github.com/13o-bbr-bbq/machine_learning_security)
+* [Source code for Mastering Machine Learning for Penetration Testing](https://github.com/PacktPublishing/Mastering-Machine-Learning-for-Penetration-Testing)
 
 ## License
 
