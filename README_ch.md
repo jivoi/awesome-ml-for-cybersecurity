@@ -75,6 +75,7 @@
 * [使用神经网络来检测应用级别的低强度拒绝服务攻击的调查](http://cyberrus.com/wp-content/uploads/2018/02/23-29-524-17_3.-Tarasov.pdf)
 * [使用深度神经网络检测恶意 PowerShell 命令](https://arxiv.org/pdf/1804.04177.pdf)
 * [机器学习检测消费级 IoT 设备 DDoS](https://arxiv.org/pdf/1804.04159.pdf)
+* [计算机系统中的异常检测](http://cyberrus.com/wp-content/uploads/2018/06/33-43-226-18_4.-Sheluhin.pdf)
 
 ## [↑](#table-of-contents) 书籍
 
@@ -83,6 +84,7 @@
 * [网络异常检测：机器学习观点](https://www.amazon.com/Network-Anomaly-Detection-Learning-Perspective/dp/1466582081)
 * [机器学习与安全：用数据和算法保护系统](https://www.amazon.com/Machine-Learning-Security-Protecting-Algorithms/dp/1491979909)
 * [写给安全专家的人工智能介绍](http://defense.ballastsecurity.net/static/IntroductionToArtificialIntelligenceForSecurityProfessionals_Cylance.pdf)
+* [精通渗透测试中的机器学习](https://www.packtpub.com/networking-and-servers/mastering-machine-learning-penetration-testing)
 
 ## [↑](#table-of-contents) 演讲
 
@@ -141,6 +143,7 @@
 * [信息安全领域的机器学习实践](https://docs.google.com/document/d/1v4plS1EhLBfjaz-9GHBqspTH7vnrJfqLrLjeP9k9i9A/edit)
 * [用于大规模数字犯罪取证的机器学习工具包](http://blog.trendmicro.com/trendlabs-security-intelligence/defplorex-machine-learning-toolkit-large-scale-ecrime-forensics/)
 * [机器学习检测 WebShell](https://github.com/lcatro/WebShell-Detect-By-Machine-Learning)
+* [为 SOC 构建机器学习模型](https://www.fireeye.com/blog/threat-research/2018/06/build-machine-learning-models-for-the-soc.html)
 
 ## [↑](#table-of-contents) 课程
 
@@ -152,6 +155,7 @@
 * [使用人类专家的输入对网络攻击达到 85% 的预测系统](http://news.mit.edu/2016/ai-system-predicts-85-percent-cyber-attacks-using-input-human-experts-0418)
 * [使用机器学习的网络安全项目开源列表](http://www.mlsecproject.org/#open-source-projects)
 * [关于机器学习和安全的源码](https://github.com/13o-bbr-bbq/machine_learning_security)
+* [精通渗透测试中的机器学习源码](https://github.com/PacktPublishing/Mastering-Machine-Learning-for-Penetration-Testing)
 
 ## 许可证
 
