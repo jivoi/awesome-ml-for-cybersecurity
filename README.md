@@ -145,6 +145,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [A Machine-Learning Toolkit for Large-scale eCrime Forensics](http://blog.trendmicro.com/trendlabs-security-intelligence/defplorex-machine-learning-toolkit-large-scale-ecrime-forensics/)
 * [WebShells Detection by Machine Learning](https://github.com/lcatro/WebShell-Detect-By-Machine-Learning)
 * [Building Machine Learning Models for the SOC](https://www.fireeye.com/blog/threat-research/2018/06/build-machine-learning-models-for-the-soc.html)
+* [Detecting Web Attacks With Recurrent Neural Networks](https://aivillage.org/posts/detecting-web-attacks-rnn/)
 
 ## [↑](#table-of-contents) Courses
 
