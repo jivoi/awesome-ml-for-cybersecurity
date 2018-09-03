@@ -78,6 +78,8 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Machine Learning DDoS Detection for Consumer Internet of Things Devices](https://arxiv.org/pdf/1804.04159.pdf)
 * [Anomaly Detection in Computer System
 by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-content/uploads/2018/06/33-43-226-18_4.-Sheluhin.pdf)
+* [Anomaly Detection in Computer System
+by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-content/uploads/2018/06/33-43-226-18_4.-Sheluhin.pdf)
 * [Application of Recurrent Neural Networks for User Verification based on Keystroke Dynamics] (https://pdfs.semanticscholar.org/35dd/ae04e4289be52a46001420e9d82928d12076.pdf)
 
 ## [↑](#table-of-contents) Books
