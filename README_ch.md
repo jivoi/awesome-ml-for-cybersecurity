@@ -38,6 +38,9 @@
 * [DeepEnd 研究中的犯罪数据集](https://www.dropbox.com/sh/7fo4efxhpenexqp/AADHnRKtL6qdzCdRlPmJpS8Aa/CRIME?dl=0)
 * [公开可用的 PCAP 文件数据集](http://www.netresec.com/?page=PcapFiles)
 * [2007年TREC公开垃圾邮件全集](https://plg.uwaterloo.ca/~gvcormac/treccorpus07/)
+* [Drebin 安卓恶意软件数据集](https://www.sec.cs.tu-bs.de/~danarp/drebin/)
+* [PhishingCorpus 数据集](https://monkey.org/~jose/phishing/)
+
 
 ## [↑](#table-of-contents) 论文
 
@@ -83,7 +86,7 @@
 * [网络安全中的机器学习与数据挖掘](https://www.amazon.com/Machine-Learning-Mining-Computer-Security/dp/184628029X)
 * [网络异常检测：机器学习观点](https://www.amazon.com/Network-Anomaly-Detection-Learning-Perspective/dp/1466582081)
 * [机器学习与安全：用数据和算法保护系统](https://www.amazon.com/Machine-Learning-Security-Protecting-Algorithms/dp/1491979909)
-* [写给安全专家的人工智能介绍](http://defense.ballastsecurity.net/static/IntroductionToArtificialIntelligenceForSecurityProfessionals_Cylance.pdf)
+* [写给安全专家的人工智能介绍](https://github.com/cylance/IntroductionToMachineLearningForSecurityPros/blob/master/IntroductionToArtificialIntelligenceForSecurityProfessionals_Cylance.pdf)
 * [精通渗透测试中的机器学习](https://www.packtpub.com/networking-and-servers/mastering-machine-learning-penetration-testing)
 
 ## [↑](#table-of-contents) 演讲
@@ -144,6 +147,7 @@
 * [用于大规模数字犯罪取证的机器学习工具包](http://blog.trendmicro.com/trendlabs-security-intelligence/defplorex-machine-learning-toolkit-large-scale-ecrime-forensics/)
 * [机器学习检测 WebShell](https://github.com/lcatro/WebShell-Detect-By-Machine-Learning)
 * [为 SOC 构建机器学习模型](https://www.fireeye.com/blog/threat-research/2018/06/build-machine-learning-models-for-the-soc.html)
+* [使用 RNN 检测 Web 攻击](https://aivillage.org/posts/detecting-web-attacks-rnn/)
 
 ## [↑](#table-of-contents) 课程
 
