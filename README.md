@@ -108,7 +108,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Machine Learning for Threat Detection](https://www.youtube.com/watch?v=qVwktOa-F34)
 * [Machine Learning and the Cloud: Disrupting Threat Detection and Prevention](https://www.youtube.com/watch?v=fRklX97iGIw)
 * [Fraud detection using machine learning & deep learning](https://www.youtube.com/watch?v=gHtN4jU69W0)
-* [The Applications Of Deep Learning On Traffic Identification](https://www.youtube.com/watch?v=B7OKgC3AJVM)
+* [The Applications Of Deep Learning On Traffic Identification](https://www.youtube.com/watch?v=yZ-Y1WCM0lc)
 * [Defending Networks With Incomplete Information: A Machine Learning Approach](https://www.youtube.com/watch?v=_0CRSF6yPB4)
 * [Machine Learning & Data Science](https://vimeo.com/112702666)
 * [Advances in Cloud-Scale Machine Learning for Cyber-Defense](https://www.youtube.com/watch?v=skSIIvvZFIk)
