@@ -109,7 +109,7 @@
 * [机器学习应用于威胁检测](https://www.youtube.com/watch?v=qVwktOa-F34)
 * [机器学习与云：扰乱检测与防御](https://www.youtube.com/watch?v=fRklX97iGIw)
 * [在欺诈检测中应用机器学习与深度学习](https://www.youtube.com/watch?v=gHtN4jU69W0)
-* [深度学习在流量识别上的应用](https://www.youtube.com/watch?v=B7OKgC3AJVM)
+* [深度学习在流量识别上的应用](https://www.youtube.com/watch?v=yZ-Y1WCM0lc)
 * [利用不完整信息进行网络防卫：机器学习方法](https://www.youtube.com/watch?v=_0CRSF6yPB4)
 * [机器学习与数据科学](https://vimeo.com/112702666)
 * [云计算规模的机器学习应用于网络防御的进展](https://www.youtube.com/watch?v=skSIIvvZFIk)
