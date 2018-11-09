@@ -125,6 +125,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Machine Learning Fueled Cyber Threat Hunting](https://www.youtube.com/watch?v=c-c-IQ5pFXw)
 * [Weaponizing Machine Learning: Humanity Was Overrated](https://www.youtube.com/watch?v=QbX7BhjOOvY)
 * [Machine Learning, Offense, and the future of Automation](https://www.youtube.com/watch?v=BWFdxAG_TGk)
+* [Bringing Red vs. Blue to Machine Learning](https://www.youtube.com/watch?v=e5O0Oxt5dYI)
 
 ## [↑](#table-of-contents) Tutorials
 
