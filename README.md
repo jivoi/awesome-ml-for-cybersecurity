@@ -148,6 +148,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [WebShells Detection by Machine Learning](https://github.com/lcatro/WebShell-Detect-By-Machine-Learning)
 * [Building Machine Learning Models for the SOC](https://www.fireeye.com/blog/threat-research/2018/06/build-machine-learning-models-for-the-soc.html)
 * [Detecting Web Attacks With Recurrent Neural Networks](https://aivillage.org/posts/detecting-web-attacks-rnn/)
+* [Machine Learning for Red Teams, Part 1](https://silentbreaksecurity.com/machine-learning-for-red-teams-part-1/)
 
 ## [↑](#table-of-contents) Courses
 
