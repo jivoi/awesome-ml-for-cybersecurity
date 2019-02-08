@@ -126,6 +126,7 @@
 * [使用机器学习辅助网络威胁狩猎](https://www.youtube.com/watch?v=c-c-IQ5pFXw)
 * [机器学习的武器化：人性被高估](https://www.youtube.com/watch?v=QbX7BhjOOvY)
 * [机器学习：进攻与自动化的未来](https://www.youtube.com/watch?v=BWFdxAG_TGk)
+* [将红蓝对抗引入机器学习](https://www.youtube.com/watch?v=e5O0Oxt5dYI)
 
 ## [↑](#table-of-contents) 教程
 
@@ -148,6 +149,9 @@
 * [机器学习检测 WebShell](https://github.com/lcatro/WebShell-Detect-By-Machine-Learning)
 * [为 SOC 构建机器学习模型](https://www.fireeye.com/blog/threat-research/2018/06/build-machine-learning-models-for-the-soc.html)
 * [使用 RNN 检测 Web 攻击](https://aivillage.org/posts/detecting-web-attacks-rnn/)
+* [红队攻击者机器学习指南，第一部分](https://silentbreaksecurity.com/machine-learning-for-red-teams-part-1/)
+* [使用机器学习检测反向 Shell](https://www.cyberbit.com/blog/endpoint-security/detecting-reverse-shell-with-machine-learning/)
+* [使用机器学习检测混淆命令行](https://www.fireeye.com/blog/threat-research/2018/11/obfuscated-command-line-detection-using-machine-learning.html)
 
 ## [↑](#table-of-contents) 课程
 
