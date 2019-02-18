@@ -152,6 +152,7 @@
 * [红队攻击者机器学习指南，第一部分](https://silentbreaksecurity.com/machine-learning-for-red-teams-part-1/)
 * [使用机器学习检测反向 Shell](https://www.cyberbit.com/blog/endpoint-security/detecting-reverse-shell-with-machine-learning/)
 * [使用机器学习检测混淆命令行](https://www.fireeye.com/blog/threat-research/2018/11/obfuscated-command-line-detection-using-machine-learning.html)
+* [使用递归神经网络检测 Web 攻击（RUS）](https://habr.com/ru/company/pt/blog/439202/)
 
 ## [↑](#table-of-contents) 课程
 
