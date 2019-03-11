@@ -39,6 +39,8 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [2007 TREC Public Spam Corpus](https://plg.uwaterloo.ca/~gvcormac/treccorpus07/)
 * [Drebin Android Malware Dataset](https://www.sec.cs.tu-bs.de/~danarp/drebin/)
 * [PhishingCorpus Datset](https://monkey.org/~jose/phishing/)
+* [EMBER](https://github.com/endgameinc/ember)
+* [Vizsec Research](https://vizsec.org/data/)
 
 ## [↑](#table-of-contents) Papers
 
@@ -78,6 +80,9 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Machine Learning DDoS Detection for Consumer Internet of Things Devices](https://arxiv.org/pdf/1804.04159.pdf)
 * [Anomaly Detection in Computer System
 by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-content/uploads/2018/06/33-43-226-18_4.-Sheluhin.pdf)
+* [EMBER: An Open Dataset for Training Static PE Malware Machine Learning Models](https://arxiv.org/pdf/1804.04637.pdf)
+* [A state-of-the-art survey of malware detection approaches using data mining techniques.](https://link.springer.com/article/10.1186/s13673-018-0125-x)
+* [Investigation of malicious portable executable file detection on network using supervised learning techniques.](https://www.researchgate.net/publication/318665164_Investigation_of_malicious_portable_executable_file_detection_on_the_network_using_supervised_learning_techniques)
 
 ## [↑](#table-of-contents) Books
 
