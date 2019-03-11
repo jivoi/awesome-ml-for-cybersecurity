@@ -39,6 +39,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [2007 TREC Public Spam Corpus](https://plg.uwaterloo.ca/~gvcormac/treccorpus07/)
 * [Drebin Android Malware Dataset](https://www.sec.cs.tu-bs.de/~danarp/drebin/)
 * [PhishingCorpus Datset](https://monkey.org/~jose/phishing/)
+* [EMBER](https://github.com/endgameinc/ember)
 
 ## [↑](#table-of-contents) Papers
 
