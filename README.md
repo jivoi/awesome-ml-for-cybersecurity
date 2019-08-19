@@ -171,6 +171,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [A list of open source projects in cyber security using machine learning](http://www.mlsecproject.org/#open-source-projects)
 * [Source code about machine learning and security](https://github.com/13o-bbr-bbq/machine_learning_security)
 * [Source code for Mastering Machine Learning for Penetration Testing](https://github.com/PacktPublishing/Mastering-Machine-Learning-for-Penetration-Testing)
+* [Convolutional neural network for analyzing pentest screenshots](https://github.com/BishopFox/eyeballer)
 
 ## License
 
