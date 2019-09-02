@@ -163,6 +163,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 
 * [Data Mining for Cyber Security by Stanford](http://web.stanford.edu/class/cs259d/)
 * [Data Science and Machine Learning for Infosec](http://www.pentesteracademy.com/course?id=30)
+* [Cybersecurity Data Science on Udemy](https://www.udemy.com/cybersecurity-data-science)
 
 ## [↑](#table-of-contents) Miscellaneous
 
@@ -170,6 +171,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [A list of open source projects in cyber security using machine learning](http://www.mlsecproject.org/#open-source-projects)
 * [Source code about machine learning and security](https://github.com/13o-bbr-bbq/machine_learning_security)
 * [Source code for Mastering Machine Learning for Penetration Testing](https://github.com/PacktPublishing/Mastering-Machine-Learning-for-Penetration-Testing)
+* [Convolutional neural network for analyzing pentest screenshots](https://github.com/BishopFox/eyeballer)
 
 ## License
 
