@@ -93,6 +93,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Machine Learning and Security: Protecting Systems with Data and Algorithms](https://www.amazon.com/Machine-Learning-Security-Protecting-Algorithms/dp/1491979909)
 * [Introduction To Artificial Intelligence For Security Professionals](https://github.com/cylance/IntroductionToMachineLearningForSecurityPros/blob/master/IntroductionToArtificialIntelligenceForSecurityProfessionals_Cylance.pdf)
 * [Mastering Machine Learning for Penetration Testing](https://www.packtpub.com/networking-and-servers/mastering-machine-learning-penetration-testing)
+* [Malware Data Science: Attack Detection and Attribution](https://nostarch.com/malwaredatascience)
 
 ## [↑](#table-of-contents) Talks
 
