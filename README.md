@@ -132,6 +132,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Weaponizing Machine Learning: Humanity Was Overrated](https://www.youtube.com/watch?v=QbX7BhjOOvY)
 * [Machine Learning, Offense, and the future of Automation](https://www.youtube.com/watch?v=BWFdxAG_TGk)
 * [Bringing Red vs. Blue to Machine Learning](https://www.youtube.com/watch?v=e5O0Oxt5dYI)
+* [Explaining Machine Learning with Azure and the Titanic Dataset](https://www.youtube.com/watch?v=x1DfjUEYm0k)
 
 ## [↑](#table-of-contents) Tutorials
 
