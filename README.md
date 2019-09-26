@@ -137,14 +137,10 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 
 ## [↑](#table-of-contents) Tutorials
 
-* [Click Security Data Hacking Project](http://clicksecurity.github.io/data_hacking/)
-* [Using Neural Networks to generate human readable passwords](http://web.archive.org/web/20170606051515/http://fsecurify.com/using-neural-networks-to-generate-human-readable-passwords/)
 * [Machine Learning based Password Strength Classification](http://web.archive.org/web/20170606022743/http://fsecurify.com/machine-learning-based-password-strength-checking/)
 * [Using Machine Learning to Detect Malicious URLs](http://web.archive.org/web/20170514093208/http://fsecurify.com/using-machine-learning-detect-malicious-urls/)
-* [Big Data and Data Science for Security and Fraud Detection](http://www.kdnuggets.com/2015/12/big-data-science-security-fraud-detection.html)
 * [Using deep learning to break a Captcha system](https://deepmlblog.wordpress.com/2016/01/03/how-to-break-a-captcha-system/)
 * [Data mining for network security and intrusion detection](https://www.r-bloggers.com/data-mining-for-network-security-and-intrusion-detection/)
-* [An Introduction to Machine Learning for Cybersecurity and Threat Hunting](http://blog.sqrrl.com/an-introduction-to-machine-learning-for-cybersecurity-and-threat-hunting)
 * [Applying Machine Learning to Improve Your Intrusion Detection System](https://securityintelligence.com/applying-machine-learning-to-improve-your-intrusion-detection-system/)
 * [Analyzing BotNets with Suricata & Machine Learning](http://blogs.splunk.com/2017/01/30/analyzing-botnets-with-suricata-machine-learning/)
 * [fWaf – Machine learning driven Web Application Firewall](http://web.archive.org/web/20170706222016/http://fsecurify.com/fwaf-machine-learning-driven-web-application-firewall/)
@@ -174,6 +170,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Source code about machine learning and security](https://github.com/13o-bbr-bbq/machine_learning_security)
 * [Source code for Mastering Machine Learning for Penetration Testing](https://github.com/PacktPublishing/Mastering-Machine-Learning-for-Penetration-Testing)
 * [Convolutional neural network for analyzing pentest screenshots](https://github.com/BishopFox/eyeballer)
+* [Big Data and Data Science for Security and Fraud Detection](http://www.kdnuggets.com/2015/12/big-data-science-security-fraud-detection.html)
 
 ## License
 
