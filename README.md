@@ -135,7 +135,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Bringing Red vs. Blue to Machine Learning](https://www.youtube.com/watch?v=e5O0Oxt5dYI)
 * [Explaining Machine Learning with Azure and the Titanic Dataset](https://www.youtube.com/watch?v=x1DfjUEYm0k)
 * [Using Machines to exploit Machines](https://www.youtube.com/watch?v=VuLvzL-WbBQ)
-
+* [Analyze active directory event logs using visualize and ML](https://www.youtube.com/watch?v=ISbbzaCGBns)
 
 ## [↑](#table-of-contents) Tutorials
 
