@@ -84,6 +84,8 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [EMBER: An Open Dataset for Training Static PE Malware Machine Learning Models](https://arxiv.org/pdf/1804.04637.pdf)
 * [A state-of-the-art survey of malware detection approaches using data mining techniques.](https://link.springer.com/article/10.1186/s13673-018-0125-x)
 * [Investigation of malicious portable executable file detection on network using supervised learning techniques.](https://www.researchgate.net/publication/318665164_Investigation_of_malicious_portable_executable_file_detection_on_the_network_using_supervised_learning_techniques)
+* [Machine Learning in Cybersecurity: A Guide](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=633583)
+
 
 ## [↑](#table-of-contents) Books
 
