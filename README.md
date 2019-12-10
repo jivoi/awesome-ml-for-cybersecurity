@@ -21,7 +21,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 ## [↑](#table-of-contents) Datasets
 
 * [Samples of Security Related Data](http://www.secrepo.com/)
-* [DARPA Intrusion Detection Data Sets](https://www.ll.mit.edu/ideval/data/)
+* [DARPA Intrusion Detection Data Sets](https://www.ll.mit.edu/r-d/datasets) [ [1998](https://www.ll.mit.edu/r-d/datasets/1998-darpa-intrusion-detection-evaluation-dataset) / [1999](https://www.ll.mit.edu/r-d/datasets/1999-darpa-intrusion-detection-evaluation-dataset) ]
 * [Stratosphere IPS Data Sets](https://stratosphereips.org/category/dataset.html)
 * [Open Data Sets](http://csr.lanl.gov/data/)
 * [Data Capture from National Security Agency](http://www.westpoint.edu/crc/SitePages/DataSets.aspx)
@@ -71,7 +71,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Machine Learning in Cyber Security: Age of the Centaurs](https://go.recordedfuture.com/hubfs/white-papers/machine-learning.pdf)
 * [Automatically Evading Classifiers A Case Study on PDF Malware Classifiers](https://www.cs.virginia.edu/~evans/pubs/ndss2016/)
 * [Weaponizing Data Science for Social Engineering — Automated E2E Spear Phishing on Twitter](https://www.blackhat.com/docs/us-16/materials/us-16-Seymour-Tully-Weaponizing-Data-Science-For-Social-Engineering-Automated-E2E-Spear-Phishing-On-Twitter.pdf)
-* [Machine Learning: A Threat-Hunting Reality Check](https://www.countercept.com/assets/Uploads/whitepapers/MWRI-Countercept-Machine-Learning-Whitepaper-2017-04-01.pdf)
+* [Machine Learning: A Threat-Hunting Reality Check](https://s3-eu-central-1.amazonaws.com/evermade-fsecure-assets/wp-content/uploads/2019/09/17153425/countercept-whitepaper-machine-learning.pdf)
 * [Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection](https://arxiv.org/abs/1708.06525)
 * [Practical Secure Aggregation for Privacy-Preserving Machine Learning](https://eprint.iacr.org/2017/281.pdf)
 * [DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](https://acmccs.github.io/papers/p1285-duA.pdf)
