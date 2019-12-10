@@ -43,6 +43,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Vizsec Research](https://vizsec.org/data/)
 * [SHERLOCK](http://bigdata.ise.bgu.ac.il/sherlock/index.html#/)
 * [Probing / Port Scan - Dataset ](https://github.com/gubertoli/ProbingDataset)
+* [Aegean Wireless Intrusion Dataset (AWID)](http://icsdweb.aegean.gr/awid/)
 
 ## [↑](#table-of-contents) Papers
 
