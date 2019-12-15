@@ -21,7 +21,7 @@
 ## [↑](#table-of-contents) 数据集
 
 * [安全相关数据样本集](http://www.secrepo.com/)
-* [DARPA 入侵检测数据集](https://www.ll.mit.edu/ideval/data/)
+* [DARPA 入侵检测数据集](https://www.ll.mit.edu/r-d/datasets) [ [1998](https://www.ll.mit.edu/r-d/datasets/1998-darpa-intrusion-detection-evaluation-dataset) / [1999](https://www.ll.mit.edu/r-d/datasets/1999-darpa-intrusion-detection-evaluation-dataset) ]
 * [Stratosphere IPS 数据集](https://stratosphereips.org/category/dataset.html)
 * [开放数据集](http://csr.lanl.gov/data/)
 * [NSA 的数据捕获](http://www.westpoint.edu/crc/SitePages/DataSets.aspx)
@@ -40,7 +40,11 @@
 * [2007年TREC公开垃圾邮件全集](https://plg.uwaterloo.ca/~gvcormac/treccorpus07/)
 * [Drebin 安卓恶意软件数据集](https://www.sec.cs.tu-bs.de/~danarp/drebin/)
 * [PhishingCorpus 数据集](https://monkey.org/~jose/phishing/)
-
+* [EMBER](https://github.com/endgameinc/ember)
+* [Vizsec Research](https://vizsec.org/data/)
+* [SHERLOCK](http://bigdata.ise.bgu.ac.il/sherlock/index.html#/)
+* [探测/端口扫描数据集](https://github.com/gubertoli/ProbingDataset)
+* [Aegean Wireless Intrusion Dataset（Aegean 无线入侵数据集）](http://icsdweb.aegean.gr/awid/)
 
 ## [↑](#table-of-contents) 论文
 
@@ -69,7 +73,7 @@
 * [网络安全中的机器学习：半人马纪元](https://go.recordedfuture.com/hubfs/white-papers/machine-learning.pdf)
 * [自动逃避分类：PDF 恶意软件分类案例研究](https://www.cs.virginia.edu/~evans/pubs/ndss2016/)
 * [社会工程在数据科学的武器化-在 Twitter 上实现自动 E2E 鱼叉钓鱼](https://www.blackhat.com/docs/us-16/materials/us-16-Seymour-Tully-Weaponizing-Data-Science-For-Social-Engineering-Automated-E2E-Spear-Phishing-On-Twitter.pdf)
-* [机器学习：威胁狩猎的现实检查](https://www.countercept.com/assets/Uploads/whitepapers/MWRI-Countercept-Machine-Learning-Whitepaper-2017-04-01.pdf)
+* [机器学习：威胁狩猎的现实检查](https://s3-eu-central-1.amazonaws.com/evermade-fsecure-assets/wp-content/uploads/2019/09/17153425/countercept-whitepaper-machine-learning.pdf)
 * [基于神经网络图嵌入的跨平台二进制程序代码相似度检测](https://arxiv.org/abs/1708.06525)
 * [整合隐私保护机器学习的实用安全](https://eprint.iacr.org/2017/281.pdf)
 * [DeepLog：基于深度学习的系统日志异常检测与诊断](https://acmccs.github.io/papers/p1285-duA.pdf)
@@ -79,6 +83,11 @@
 * [使用深度神经网络检测恶意 PowerShell 命令](https://arxiv.org/pdf/1804.04177.pdf)
 * [机器学习检测消费级 IoT 设备 DDoS](https://arxiv.org/pdf/1804.04159.pdf)
 * [计算机系统中的异常检测](http://cyberrus.com/wp-content/uploads/2018/06/33-43-226-18_4.-Sheluhin.pdf)
+* [EMBER: 训练静态 PE 恶意软件检测机器学习模型的开源数据集](https://arxiv.org/pdf/1804.04637.pdf)
+* [使用数据挖掘检测恶意软件的调查](https://link.springer.com/article/10.1186/s13673-018-0125-x)
+* [在网络中使用有监督学习检测恶意 PE 的文件的调查](https://www.researchgate.net/publication/318665164_Investigation_of_malicious_portable_executable_file_detection_on_the_network_using_supervised_learning_techniques)
+* [网络安全中的机器学习](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=633583)
+* [使用机器学习进行网络入侵检测](https://personal.utdallas.edu/~muratk/courses/dmsec_files/oakland10-ml.pdf)
 
 ## [↑](#table-of-contents) 书籍
 
@@ -88,6 +97,7 @@
 * [机器学习与安全：用数据和算法保护系统](https://www.amazon.com/Machine-Learning-Security-Protecting-Algorithms/dp/1491979909)
 * [写给安全专家的人工智能介绍](https://github.com/cylance/IntroductionToMachineLearningForSecurityPros/blob/master/IntroductionToArtificialIntelligenceForSecurityProfessionals_Cylance.pdf)
 * [精通渗透测试中的机器学习](https://www.packtpub.com/networking-and-servers/mastering-machine-learning-penetration-testing)
+* [恶意软件数据科学：攻击检测与归因](https://nostarch.com/malwaredatascience)
 
 ## [↑](#table-of-contents) 演讲
 
@@ -130,14 +140,10 @@
 
 ## [↑](#table-of-contents) 教程
 
-* [点击安全数据窃听项目](http://clicksecurity.github.io/data_hacking/)
-* [使用神经网络生成人类可读的密码](http://fsecurify.com/using-neural-networks-to-generate-human-readable-passwords/)
 * [基于机器学习的密码强度分类](http://fsecurify.com/machine-learning-based-password-strength-checking/)
 * [应用机器学习在检测恶意 URL](http://fsecurify.com/using-machine-learning-detect-malicious-urls/)
-* [在安全与欺诈检测中的大数据与数据科学](http://www.kdnuggets.com/2015/12/big-data-science-security-fraud-detection.html)
 * [使用深度学习突破验证码](https://deepmlblog.wordpress.com/2016/01/03/how-to-break-a-captcha-system/)
 * [网络安全与入侵检测中的数据挖掘](https://www.r-bloggers.com/data-mining-for-network-security-and-intrusion-detection/)
-* [机器学习应用于网络安全与威胁狩猎简介](http://blog.sqrrl.com/an-introduction-to-machine-learning-for-cybersecurity-and-threat-hunting)
 * [应用机器学习提高入侵检测系统](https://securityintelligence.com/applying-machine-learning-to-improve-your-intrusion-detection-system/)
 * [使用 Suricata 与机器学习分析僵尸网络](http://blogs.splunk.com/2017/01/30/analyzing-botnets-with-suricata-machine-learning/)
 * [fWaf – 机器学习驱动的 Web 应用防火墙](http://fsecurify.com/fwaf-machine-learning-driven-web-application-firewall/)
@@ -156,8 +162,9 @@
 
 ## [↑](#table-of-contents) 课程
 
-* [Stanford 的网络安全数据挖掘课](http://web.stanford.edu/class/cs259d/)
+* [Stanford 网络安全数据挖掘](http://web.stanford.edu/class/cs259d/)
 * [Infosec 数据科学与机器学习](http://www.pentesteracademy.com/course?id=30)
+* [Udemy 网络安全数据科学](https://www.udemy.com/cybersecurity-data-science)
 
 ## [↑](#table-of-contents) 杂项
 
@@ -165,6 +172,8 @@
 * [使用机器学习的网络安全项目开源列表](http://www.mlsecproject.org/#open-source-projects)
 * [关于机器学习和安全的源码](https://github.com/13o-bbr-bbq/machine_learning_security)
 * [精通渗透测试中的机器学习源码](https://github.com/PacktPublishing/Mastering-Machine-Learning-for-Penetration-Testing)
+* [用于分析渗透测试的 CNN](https://github.com/BishopFox/eyeballer)
+* [安全与欺诈检测的大数据和数据科学](http://www.kdnuggets.com/2015/12/big-data-science-security-fraud-detection.html)
 
 ## 许可证
 
