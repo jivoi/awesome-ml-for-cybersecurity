@@ -141,6 +141,8 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Explaining Machine Learning with Azure and the Titanic Dataset](https://www.youtube.com/watch?v=x1DfjUEYm0k)
 * [Using Machines to exploit Machines](https://www.youtube.com/watch?v=VuLvzL-WbBQ)
 * [Analyze active directory event logs using visualize and ML](https://www.youtube.com/watch?v=ISbbzaCGBns)
+* [Hardening Machine Learning Defenses Against Adversarial Attacks](https://www.youtube.com/watch?v=CAwua_lugV8)
+* [Deep Neural Networks for Hackers: Methods, Applications, and Open Source Tools](https://www.youtube.com/watch?v=fKJ8sTi6H88)
 
 ## [↑](#table-of-contents) Tutorials
 
