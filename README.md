@@ -167,6 +167,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Obfuscated Command Line Detection Using Machine Learning](https://www.fireeye.com/blog/threat-research/2018/11/obfuscated-command-line-detection-using-machine-learning.html)
 * [Обнаружение веб-атак с помощью рекуррентных нейронных сетей (RUS)](https://habr.com/ru/company/pt/blog/439202/)
 * [Clear and Creepy Danger of Machine Learning: Hacking Passwords](https://towardsdatascience.com/clear-and-creepy-danger-of-machine-learning-hacking-passwords-a01a7d6076d5)
+* [Discovering anomalous patterns based on parent-child process relationships](https://www.elastic.co/cn/blog/discovering-anomalous-patterns-based-on-parent-child-process-relationships)
 
 
 ## [↑](#table-of-contents) Courses
