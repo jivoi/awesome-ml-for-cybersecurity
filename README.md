@@ -144,6 +144,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Hardening Machine Learning Defenses Against Adversarial Attacks](https://www.youtube.com/watch?v=CAwua_lugV8)
 * [Deep Neural Networks for Hackers: Methods, Applications, and Open Source Tools](https://www.youtube.com/watch?v=fKJ8sTi6H88)
 * [ML in the daily work of a threat hunter](https://www.youtube.com/watch?v=vWMRVhDCpao)
+* [The Real Deal About AI: ML for CyberSecurity - Josh Fu](https://www.youtube.com/watch?v=RzakalH1eL8)
 
 ## [↑](#table-of-contents) Tutorials
 
