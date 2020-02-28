@@ -169,7 +169,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Обнаружение веб-атак с помощью рекуррентных нейронных сетей (RUS)](https://habr.com/ru/company/pt/blog/439202/)
 * [Clear and Creepy Danger of Machine Learning: Hacking Passwords](https://towardsdatascience.com/clear-and-creepy-danger-of-machine-learning-hacking-passwords-a01a7d6076d5)
 * [Discovering anomalous patterns based on parent-child process relationships](https://www.elastic.co/cn/blog/discovering-anomalous-patterns-based-on-parent-child-process-relationships)
-
+* [Machine Learning for Detecting Phishing Websites](https://faizanahmad.tech/blog/2020/02/phishytics-machine-learning-for-phishing-websites-detection/)
 
 ## [↑](#table-of-contents) Courses
 
