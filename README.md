@@ -46,6 +46,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Aegean Wireless Intrusion Dataset (AWID)](http://icsdweb.aegean.gr/awid/)
 * [IMPACT CyberTrust](https://www.impactcybertrust.org/search?filter[]=Datasets&filter[]=Topic%3A+Cyber+Attack)
 * [CVE datasets](http://cve.mitre.org/data/downloads/index.html)
+* [Canadian Institute for Cybersecurity](https://www.unb.ca/cic/datasets/index.html)
 
 ## [↑](#table-of-contents) Papers
 
