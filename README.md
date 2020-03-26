@@ -170,6 +170,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Clear and Creepy Danger of Machine Learning: Hacking Passwords](https://towardsdatascience.com/clear-and-creepy-danger-of-machine-learning-hacking-passwords-a01a7d6076d5)
 * [Discovering anomalous patterns based on parent-child process relationships](https://www.elastic.co/cn/blog/discovering-anomalous-patterns-based-on-parent-child-process-relationships)
 * [Machine Learning for Detecting Phishing Websites](https://faizanahmad.tech/blog/2020/02/phishytics-machine-learning-for-phishing-websites-detection/)
+* [Password Hunting with ML in Active Directory](https://blog.hunniccyber.com/password-hunting-with-ml-in-active-directory/)
 
 ## [↑](#table-of-contents) Courses
 
