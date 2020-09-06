@@ -145,6 +145,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Deep Neural Networks for Hackers: Methods, Applications, and Open Source Tools](https://www.youtube.com/watch?v=fKJ8sTi6H88)
 * [ML in the daily work of a threat hunter](https://www.youtube.com/watch?v=vWMRVhDCpao)
 * [The Real Deal About AI: ML for CyberSecurity - Josh Fu](https://www.youtube.com/watch?v=RzakalH1eL8)
+* [Automated Detection of Software Vulnerabilities Using Deep-Learning](https://www.youtube.com/watch?v=tpzT8ppx5-s)
 
 ## [↑](#table-of-contents) Tutorials
 
