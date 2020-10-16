@@ -132,7 +132,6 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Machine Learning-Based Techniques For Network Intrusion Detection](https://www.youtube.com/watch?v=-EUJgpiJ8Jo)
 * [Practical Machine Learning in Infosec](https://www.youtube.com/watch?v=YF2dm6GZf2U)
 * [AI and Security](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/07/AI_and_Security_Dawn_Song.pdf)
-* [AI in InfoSec](https://vimeo.com/230502013)
 * [Beyond the Blacklists: Detecting Malicious URL Through Machine Learning](https://www.youtube.com/watch?v=Kd3svc9HZ0Y)
 * [Machine Learning Fueled Cyber Threat Hunting](https://www.youtube.com/watch?v=c-c-IQ5pFXw)
 * [Weaponizing Machine Learning: Humanity Was Overrated](https://www.youtube.com/watch?v=QbX7BhjOOvY)
