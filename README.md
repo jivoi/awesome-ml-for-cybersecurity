@@ -88,6 +88,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Investigation of malicious portable executable file detection on network using supervised learning techniques.](https://www.researchgate.net/publication/318665164_Investigation_of_malicious_portable_executable_file_detection_on_the_network_using_supervised_learning_techniques)
 * [Machine Learning in Cybersecurity: A Guide](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=633583)
 * [Outside the Closed World: On Using Machine Learning For Network Intrusion Detection](https://personal.utdallas.edu/~muratk/courses/dmsec_files/oakland10-ml.pdf)
+* [Machine Learning Based Network Vulnerability Analysis of Industrial Internet of Things](https://arxiv.org/abs/1911.05771)
 
 
 ## [↑](#table-of-contents) Books
