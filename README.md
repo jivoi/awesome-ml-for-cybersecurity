@@ -148,6 +148,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [The Real Deal About AI: ML for CyberSecurity - Josh Fu](https://www.youtube.com/watch?v=RzakalH1eL8)
 * [Automated Detection of Software Vulnerabilities Using Deep-Learning](https://www.youtube.com/watch?v=tpzT8ppx5-s)
 * [Building and Breaking a Machine Learning System - Johann Rehberger](https://www.youtube.com/watch?v=-SV80sIBhqY)
+* [Vulnerabilities of Machine Learning Infrastructure](https://www.youtube.com/watch?v=5bWyY3kocdE)
 
 ## [↑](#table-of-contents) Tutorials
 
