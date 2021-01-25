@@ -175,6 +175,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Discovering anomalous patterns based on parent-child process relationships](https://www.elastic.co/cn/blog/discovering-anomalous-patterns-based-on-parent-child-process-relationships)
 * [Machine Learning for Detecting Phishing Websites](https://faizanahmad.tech/blog/2020/02/phishytics-machine-learning-for-phishing-websites-detection/)
 * [Password Hunting with ML in Active Directory](https://blog.hunniccyber.com/password-hunting-with-ml-in-active-directory/)
+* [Как самому разработать систему обнаружения компьютерных атак на основе машинного обучения (RUS)](https://habr.com/ru/post/538296/)
 
 ## [↑](#table-of-contents) Courses
 
