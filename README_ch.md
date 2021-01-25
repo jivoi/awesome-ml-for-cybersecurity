@@ -45,6 +45,9 @@
 * [SHERLOCK](http://bigdata.ise.bgu.ac.il/sherlock/index.html#/)
 * [探测/端口扫描数据集](https://github.com/gubertoli/ProbingDataset)
 * [Aegean Wireless Intrusion Dataset（Aegean 无线入侵数据集）](http://icsdweb.aegean.gr/awid/)
+* [IMPACT CyberTrust](https://www.impactcybertrust.org/search?filter[]=Datasets&filter[]=Topic%3A+Cyber+Attack)
+* [CVE 资料集](http://cve.mitre.org/data/downloads/index.html)
+* [Canadian Institute for Cybersecurity](https://www.unb.ca/cic/datasets/index.html)
 
 ## [↑](#table-of-contents) 论文
 
