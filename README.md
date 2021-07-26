@@ -89,7 +89,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Machine Learning in Cybersecurity: A Guide](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=633583)
 * [Outside the Closed World: On Using Machine Learning For Network Intrusion Detection](https://personal.utdallas.edu/~muratk/courses/dmsec_files/oakland10-ml.pdf)
 * [Machine Learning Based Network Vulnerability Analysis of Industrial Internet of Things](https://arxiv.org/abs/1911.05771)
-
+* [Hopper: Modeling and Detecting Lateral Movement](https://arxiv.org/pdf/2105.13442.pdf1)
 
 ## [↑](#table-of-contents) Books
 
