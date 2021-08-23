@@ -21,7 +21,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 ## [↑](#table-of-contents) Datasets
 
 * [Samples of Security Related Data](http://www.secrepo.com/)
-* [DARPA Intrusion Detection Data Sets](https://www.ll.mit.edu/ideval/data/)
+* [DARPA Intrusion Detection Data Sets](https://www.ll.mit.edu/r-d/datasets) [ [1998](https://www.ll.mit.edu/r-d/datasets/1998-darpa-intrusion-detection-evaluation-dataset) / [1999](https://www.ll.mit.edu/r-d/datasets/1999-darpa-intrusion-detection-evaluation-dataset) ]
 * [Stratosphere IPS Data Sets](https://stratosphereips.org/category/dataset.html)
 * [Open Data Sets](http://csr.lanl.gov/data/)
 * [Data Capture from National Security Agency](http://www.westpoint.edu/crc/SitePages/DataSets.aspx)
@@ -42,6 +42,8 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [EMBER](https://github.com/endgameinc/ember)
 * [Vizsec Research](https://vizsec.org/data/)
 * [SHERLOCK](http://bigdata.ise.bgu.ac.il/sherlock/index.html#/)
+* [Probing / Port Scan - Dataset ](https://github.com/gubertoli/ProbingDataset)
+* [Aegean Wireless Intrusion Dataset (AWID)](http://icsdweb.aegean.gr/awid/)
 * [BODMAS PE Malware Dataset](https://whyisyoung.github.io/BODMAS/)
 
 ## [↑](#table-of-contents) Papers
@@ -71,7 +73,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Machine Learning in Cyber Security: Age of the Centaurs](https://go.recordedfuture.com/hubfs/white-papers/machine-learning.pdf)
 * [Automatically Evading Classifiers A Case Study on PDF Malware Classifiers](https://www.cs.virginia.edu/~evans/pubs/ndss2016/)
 * [Weaponizing Data Science for Social Engineering — Automated E2E Spear Phishing on Twitter](https://www.blackhat.com/docs/us-16/materials/us-16-Seymour-Tully-Weaponizing-Data-Science-For-Social-Engineering-Automated-E2E-Spear-Phishing-On-Twitter.pdf)
-* [Machine Learning: A Threat-Hunting Reality Check](https://www.countercept.com/assets/Uploads/whitepapers/MWRI-Countercept-Machine-Learning-Whitepaper-2017-04-01.pdf)
+* [Machine Learning: A Threat-Hunting Reality Check](https://s3-eu-central-1.amazonaws.com/evermade-fsecure-assets/wp-content/uploads/2019/09/17153425/countercept-whitepaper-machine-learning.pdf)
 * [Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection](https://arxiv.org/abs/1708.06525)
 * [Practical Secure Aggregation for Privacy-Preserving Machine Learning](https://eprint.iacr.org/2017/281.pdf)
 * [DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](https://acmccs.github.io/papers/p1285-duA.pdf)
@@ -85,6 +87,10 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [EMBER: An Open Dataset for Training Static PE Malware Machine Learning Models](https://arxiv.org/pdf/1804.04637.pdf)
 * [A state-of-the-art survey of malware detection approaches using data mining techniques.](https://link.springer.com/article/10.1186/s13673-018-0125-x)
 * [Investigation of malicious portable executable file detection on network using supervised learning techniques.](https://www.researchgate.net/publication/318665164_Investigation_of_malicious_portable_executable_file_detection_on_the_network_using_supervised_learning_techniques)
+* [Machine Learning in Cybersecurity: A Guide](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=633583)
+* [Outside the Closed World: On Using Machine Learning For Network Intrusion Detection](https://personal.utdallas.edu/~muratk/courses/dmsec_files/oakland10-ml.pdf)
+* [Machine Learning Based Network Vulnerability Analysis of Industrial Internet of Things](https://arxiv.org/abs/1911.05771)
+* [Hopper: Modeling and Detecting Lateral Movement](https://arxiv.org/pdf/2105.13442.pdf1)
 
 ## [↑](#table-of-contents) Books
 
@@ -94,6 +100,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Machine Learning and Security: Protecting Systems with Data and Algorithms](https://www.amazon.com/Machine-Learning-Security-Protecting-Algorithms/dp/1491979909)
 * [Introduction To Artificial Intelligence For Security Professionals](https://github.com/cylance/IntroductionToMachineLearningForSecurityPros/blob/master/IntroductionToArtificialIntelligenceForSecurityProfessionals_Cylance.pdf)
 * [Mastering Machine Learning for Penetration Testing](https://www.packtpub.com/networking-and-servers/mastering-machine-learning-penetration-testing)
+* [Malware Data Science: Attack Detection and Attribution](https://nostarch.com/malwaredatascience)
 
 ## [↑](#table-of-contents) Talks
 
@@ -133,17 +140,23 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Weaponizing Machine Learning: Humanity Was Overrated](https://www.youtube.com/watch?v=QbX7BhjOOvY)
 * [Machine Learning, Offense, and the future of Automation](https://www.youtube.com/watch?v=BWFdxAG_TGk)
 * [Bringing Red vs. Blue to Machine Learning](https://www.youtube.com/watch?v=e5O0Oxt5dYI)
+* [Explaining Machine Learning with Azure and the Titanic Dataset](https://www.youtube.com/watch?v=x1DfjUEYm0k)
+* [Using Machines to exploit Machines](https://www.youtube.com/watch?v=VuLvzL-WbBQ)
+* [Analyze active directory event logs using visualize and ML](https://www.youtube.com/watch?v=ISbbzaCGBns)
+* [Hardening Machine Learning Defenses Against Adversarial Attacks](https://www.youtube.com/watch?v=CAwua_lugV8)
+* [Deep Neural Networks for Hackers: Methods, Applications, and Open Source Tools](https://www.youtube.com/watch?v=fKJ8sTi6H88)
+* [ML in the daily work of a threat hunter](https://www.youtube.com/watch?v=vWMRVhDCpao)
+* [The Real Deal About AI: ML for CyberSecurity - Josh Fu](https://www.youtube.com/watch?v=RzakalH1eL8)
+* [Automated Detection of Software Vulnerabilities Using Deep-Learning](https://www.youtube.com/watch?v=tpzT8ppx5-s)
+* [Building and Breaking a Machine Learning System - Johann Rehberger](https://www.youtube.com/watch?v=-SV80sIBhqY)
+* [Vulnerabilities of Machine Learning Infrastructure - Sergey Gordeychik](https://www.youtube.com/watch?v=5bWyY3kocdE)
 
 ## [↑](#table-of-contents) Tutorials
 
-* [Click Security Data Hacking Project](http://clicksecurity.github.io/data_hacking/)
-* [Using Neural Networks to generate human readable passwords](http://web.archive.org/web/20170606051515/http://fsecurify.com/using-neural-networks-to-generate-human-readable-passwords/)
 * [Machine Learning based Password Strength Classification](http://web.archive.org/web/20170606022743/http://fsecurify.com/machine-learning-based-password-strength-checking/)
 * [Using Machine Learning to Detect Malicious URLs](http://web.archive.org/web/20170514093208/http://fsecurify.com/using-machine-learning-detect-malicious-urls/)
-* [Big Data and Data Science for Security and Fraud Detection](http://www.kdnuggets.com/2015/12/big-data-science-security-fraud-detection.html)
 * [Using deep learning to break a Captcha system](https://deepmlblog.wordpress.com/2016/01/03/how-to-break-a-captcha-system/)
 * [Data mining for network security and intrusion detection](https://www.r-bloggers.com/data-mining-for-network-security-and-intrusion-detection/)
-* [An Introduction to Machine Learning for Cybersecurity and Threat Hunting](http://blog.sqrrl.com/an-introduction-to-machine-learning-for-cybersecurity-and-threat-hunting)
 * [Applying Machine Learning to Improve Your Intrusion Detection System](https://securityintelligence.com/applying-machine-learning-to-improve-your-intrusion-detection-system/)
 * [Analyzing BotNets with Suricata & Machine Learning](http://blogs.splunk.com/2017/01/30/analyzing-botnets-with-suricata-machine-learning/)
 * [fWaf – Machine learning driven Web Application Firewall](http://web.archive.org/web/20170706222016/http://fsecurify.com/fwaf-machine-learning-driven-web-application-firewall/)
@@ -159,11 +172,19 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Detecting Reverse Shell with Machine Learning](https://www.cyberbit.com/blog/endpoint-security/detecting-reverse-shell-with-machine-learning/)
 * [Obfuscated Command Line Detection Using Machine Learning](https://www.fireeye.com/blog/threat-research/2018/11/obfuscated-command-line-detection-using-machine-learning.html)
 * [Обнаружение веб-атак с помощью рекуррентных нейронных сетей (RUS)](https://habr.com/ru/company/pt/blog/439202/)
+* [Clear and Creepy Danger of Machine Learning: Hacking Passwords](https://towardsdatascience.com/clear-and-creepy-danger-of-machine-learning-hacking-passwords-a01a7d6076d5)
+* [Discovering anomalous patterns based on parent-child process relationships](https://www.elastic.co/cn/blog/discovering-anomalous-patterns-based-on-parent-child-process-relationships)
+* [Machine Learning for Detecting Phishing Websites](https://faizanahmad.tech/blog/2020/02/phishytics-machine-learning-for-phishing-websites-detection/)
+* [Password Hunting with ML in Active Directory](https://blog.hunniccyber.com/password-hunting-with-ml-in-active-directory/)
+* [Как самому разработать систему обнаружения компьютерных атак на основе машинного обучения (RUS)](https://habr.com/ru/post/538296/)
 
 ## [↑](#table-of-contents) Courses
 
 * [Data Mining for Cyber Security by Stanford](http://web.stanford.edu/class/cs259d/)
 * [Data Science and Machine Learning for Infosec](http://www.pentesteracademy.com/course?id=30)
+* [Cybersecurity Data Science on Udemy](https://www.udemy.com/cybersecurity-data-science)
+* [Machine Learning for Red Team Hackers on Udemy](https://www.udemy.com/course/machine-learning-for-red-team-hackers/)
+* [Machine Learning for Security](https://security.kiwi/docs/introduction/)
 
 ## [↑](#table-of-contents) Miscellaneous
 
@@ -171,6 +192,9 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [A list of open source projects in cyber security using machine learning](http://www.mlsecproject.org/#open-source-projects)
 * [Source code about machine learning and security](https://github.com/13o-bbr-bbq/machine_learning_security)
 * [Source code for Mastering Machine Learning for Penetration Testing](https://github.com/PacktPublishing/Mastering-Machine-Learning-for-Penetration-Testing)
+* [Convolutional neural network for analyzing pentest screenshots](https://github.com/BishopFox/eyeballer)
+* [Big Data and Data Science for Security and Fraud Detection](http://www.kdnuggets.com/2015/12/big-data-science-security-fraud-detection.html)
+* [StringSifter - a machine learning tool that ranks strings based on their relevance for malware analysis](https://github.com/fireeye/stringsifter)
 
 ## License
 
