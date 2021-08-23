@@ -42,6 +42,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [EMBER](https://github.com/endgameinc/ember)
 * [Vizsec Research](https://vizsec.org/data/)
 * [SHERLOCK](http://bigdata.ise.bgu.ac.il/sherlock/index.html#/)
+* [BODMAS PE Malware Dataset](https://whyisyoung.github.io/BODMAS/)
 
 ## [↑](#table-of-contents) Papers
 
