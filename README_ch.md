@@ -29,7 +29,6 @@
 * [NSL-KDD 数据集](https://github.com/defcom17/NSL_KDD)
 * [恶意 URL 数据集](http://sysnet.ucsd.edu/projects/url/)
 * [多源安全事件数据集](http://csr.lanl.gov/data/cyber1/)
-* [恶意软件训练集](http://marcoramilli.blogspot.cz/2016/12/malware-training-sets-machine-learning.html)
 * [KDD Cup 1999 数据集](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)
 * [Web 攻击载荷](https://github.com/foospidy/payloads)
 * [WAF 恶意请求数据集](https://github.com/faizann24/Fwaf-Machine-Learning-driven-Web-Application-Firewall)
@@ -88,6 +87,8 @@
 * [在网络中使用有监督学习检测恶意 PE 的文件的调查](https://www.researchgate.net/publication/318665164_Investigation_of_malicious_portable_executable_file_detection_on_the_network_using_supervised_learning_techniques)
 * [网络安全中的机器学习](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=633583)
 * [使用机器学习进行网络入侵检测](https://personal.utdallas.edu/~muratk/courses/dmsec_files/oakland10-ml.pdf)
+* [基于机器学习的工业物联网网络漏洞分析](https://arxiv.org/abs/1911.05771)
+* [Hopper: 建模检测横向移动](https://arxiv.org/pdf/2105.13442.pdf1)
 
 ## [↑](#table-of-contents) 书籍
 
@@ -137,6 +138,16 @@
 * [机器学习的武器化：人性被高估](https://www.youtube.com/watch?v=QbX7BhjOOvY)
 * [机器学习：进攻与自动化的未来](https://www.youtube.com/watch?v=BWFdxAG_TGk)
 * [将红蓝对抗引入机器学习](https://www.youtube.com/watch?v=e5O0Oxt5dYI)
+* [使用 Azure 和 Titanic 数据集解释机器学习](https://www.youtube.com/watch?v=x1DfjUEYm0k)
+* [使用机器攻击机器](https://www.youtube.com/watch?v=VuLvzL-WbBQ)
+* [使用可视化和机器学习分析活动目录事件日志](https://www.youtube.com/watch?v=ISbbzaCGBns)
+* [强化机器学习防御对抗性攻击](https://www.youtube.com/watch?v=CAwua_lugV8)
+* [入侵深度神经网络：方法、应用程序和开源工具](https://www.youtube.com/watch?v=fKJ8sTi6H88)
+* [威胁狩猎中的机器学习](https://www.youtube.com/watch?v=vWMRVhDCpao)
+* [网络安全机器学习 - Josh Fu](https://www.youtube.com/watch?v=RzakalH1eL8)
+* [使用深度学习自动检测软件漏洞](https://www.youtube.com/watch?v=tpzT8ppx5-s)
+* [构建/破坏机器学习系统 - Johann Rehberger](https://www.youtube.com/watch?v=-SV80sIBhqY)
+* [机器学习基础设施的漏洞 - Sergey Gordeychik](https://www.youtube.com/watch?v=5bWyY3kocdE)
 
 ## [↑](#table-of-contents) 教程
 
@@ -159,12 +170,19 @@
 * [使用机器学习检测反向 Shell](https://www.cyberbit.com/blog/endpoint-security/detecting-reverse-shell-with-machine-learning/)
 * [使用机器学习检测混淆命令行](https://www.fireeye.com/blog/threat-research/2018/11/obfuscated-command-line-detection-using-machine-learning.html)
 * [使用递归神经网络检测 Web 攻击（RUS）](https://habr.com/ru/company/pt/blog/439202/)
+* [机器学习破解密码]](https://towardsdatascience.com/clear-and-creepy-danger-of-machine-learning-hacking-passwords-a01a7d6076d5)
+* [基于父子进程关系发现异常](https://www.elastic.co/cn/blog/discovering-anomalous-patterns-based-on-parent-child-process-relationships)
+* [机器学习检测钓鱼网站](https://faizanahmad.tech/blog/2020/02/phishytics-machine-learning-for-phishing-websites-detection/)
+* [在活动目录中使用机器学习狩猎密码](https://blog.hunniccyber.com/password-hunting-with-ml-in-active-directory/)
+* [开发基于机器学习的攻击检测系统（RUS）](https://habr.com/ru/post/538296/)
 
 ## [↑](#table-of-contents) 课程
 
 * [Stanford 网络安全数据挖掘](http://web.stanford.edu/class/cs259d/)
 * [Infosec 数据科学与机器学习](http://www.pentesteracademy.com/course?id=30)
 * [Udemy 网络安全数据科学](https://www.udemy.com/cybersecurity-data-science)
+* [Udemy 红队机器学习](https://www.udemy.com/course/machine-learning-for-red-team-hackers/)
+* [安全中的机器学习](https://security.kiwi/docs/introduction/)
 
 ## [↑](#table-of-contents) 杂项
 
@@ -174,6 +192,7 @@
 * [精通渗透测试中的机器学习源码](https://github.com/PacktPublishing/Mastering-Machine-Learning-for-Penetration-Testing)
 * [用于分析渗透测试的 CNN](https://github.com/BishopFox/eyeballer)
 * [安全与欺诈检测的大数据和数据科学](http://www.kdnuggets.com/2015/12/big-data-science-security-fraud-detection.html)
+* [StringSifter - 根据字符串与恶意软件分析的相关性对字符串进行排名的机器学习工具](https://github.com/fireeye/stringsifter)
 
 ## 许可证
 
