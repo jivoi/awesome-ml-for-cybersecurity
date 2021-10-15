@@ -20,6 +20,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 
 ## [↑](#table-of-contents) Datasets
 
+* [HIKARI-2021 Datasets](https://zenodo.org/record/5199540)
 * [Samples of Security Related Data](http://www.secrepo.com/)
 * [DARPA Intrusion Detection Data Sets](https://www.ll.mit.edu/r-d/datasets) [ [1998](https://www.ll.mit.edu/r-d/datasets/1998-darpa-intrusion-detection-evaluation-dataset) / [1999](https://www.ll.mit.edu/r-d/datasets/1999-darpa-intrusion-detection-evaluation-dataset) ]
 * [Stratosphere IPS Data Sets](https://stratosphereips.org/category/dataset.html)
@@ -47,6 +48,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 
 ## [↑](#table-of-contents) Papers
 
+* [Generating Network Intrusion Detection Dataset Based on Real and Encrypted Synthetic Attack Traffic](https://www.mdpi.com/2076-3417/11/17/7868/htm)
 * [Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/melicher)
 * [Outside the Closed World: On Using Machine Learning for Network Intrusion Detection](http://ieeexplore.ieee.org/document/5504793/?reload=true)
 * [Anomalous Payload-Based Network Intrusion Detection](https://link.springer.com/chapter/10.1007/978-3-540-30143-1_11)
