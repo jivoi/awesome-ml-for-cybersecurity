@@ -90,6 +90,8 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Outside the Closed World: On Using Machine Learning For Network Intrusion Detection](https://personal.utdallas.edu/~muratk/courses/dmsec_files/oakland10-ml.pdf)
 * [Machine Learning Based Network Vulnerability Analysis of Industrial Internet of Things](https://arxiv.org/abs/1911.05771)
 * [Hopper: Modeling and Detecting Lateral Movement](https://arxiv.org/pdf/2105.13442.pdf1)
+* [Finding Effective Security Strategies through Reinforcement Learning and Self-Play](https://arxiv.org/abs/2009.08120)
+* [Intrusion Prevention through Optimal Stopping](https://arxiv.org/abs/2111.00289)
 
 ## [↑](#table-of-contents) Books
 
