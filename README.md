@@ -45,6 +45,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [SHERLOCK](http://bigdata.ise.bgu.ac.il/sherlock/index.html#/)
 * [Probing / Port Scan - Dataset ](https://github.com/gubertoli/ProbingDataset)
 * [Aegean Wireless Intrusion Dataset (AWID)](http://icsdweb.aegean.gr/awid/)
+* [BODMAS PE Malware Dataset](https://whyisyoung.github.io/BODMAS/)
 
 ## [↑](#table-of-contents) Papers
 
