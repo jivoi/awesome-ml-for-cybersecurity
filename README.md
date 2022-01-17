@@ -66,10 +66,6 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [PAYL – Anomalous Payload-based Network Intrusion Detection](http://www.covert.io/research-papers/security/PAYL%20-%20Anomalous%20Payload-based%20Network%20Intrusion%20Detection.pdf)
 * [Anagram – A Content Anomaly Detector Resistant to Mimicry Attacks](http://www.covert.io/research-papers/security/Anagram%20-%20A%20Content%20Anomaly%20Detector%20Resistant%20to%20Mimicry%20Attack.pdf)
 * [Applications of Machine Learning in Cyber Security](https://www.researchgate.net/publication/283083699_Applications_of_Machine_Learning_in_Cyber_Security)
-* [Data Mining для построения систем обнаружения сетевых атак (RUS)](http://vak.ed.gov.ru/az/server/php/filer.php?table=att_case&fld=autoref&key%5B%5D=100003407)
-* [Выбор технологий Data Mining для систем обнаружения вторжений в корпоративную сеть (RUS)](http://engjournal.ru/articles/987/987.pdf)
-* [Нейросетевой подход к иерархическому представлению компьютерной сети в задачах информационной безопасности (RUS)](http://engjournal.ru/articles/534/534.pdf)
-* [Методы интеллектуального анализа данных и обнаружение вторжений (RUS)](http://vestnik.sibsutis.ru/uploads/1459329553_3576.pdf)
 * [Dimension Reduction in Network Attacks Detection Systems](http://elib.bsu.by/bitstream/123456789/120105/1/v17no3p284.pdf)
 * [Rise of the machines: Machine Learning & its cyber security applications](https://www.nccgroup.trust/globalassets/our-research/uk/whitepapers/2017/rise-of-the-machines-preliminaries-wp-new-template-final_web.pdf)
 * [Machine Learning in Cyber Security: Age of the Centaurs](https://go.recordedfuture.com/hubfs/white-papers/machine-learning.pdf)
@@ -80,12 +76,8 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Practical Secure Aggregation for Privacy-Preserving Machine Learning](https://eprint.iacr.org/2017/281.pdf)
 * [DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](https://acmccs.github.io/papers/p1285-duA.pdf)
 * [eXpose: A Character-Level Convolutional Neural Network with Embeddings For Detecting Malicious URLs, File Paths and Registry Keys](https://arxiv.org/pdf/1702.08568.pdf)
-* [Big Data Technologies for Security Event Correlation Based on Event Type Accounting (RUS)](http://cyberrus.com/wp-content/uploads/2018/02/2-16-524-17_1.-Kotenko.pdf)
-* [Investigation of The Use of Neural Networks for Detecting Low-Intensive Ddоs-Atak of Applied Level (RUS)](http://cyberrus.com/wp-content/uploads/2018/02/23-29-524-17_3.-Tarasov.pdf)
 * [Detecting Malicious PowerShell Commands using Deep Neural Networks](https://arxiv.org/pdf/1804.04177.pdf)
 * [Machine Learning DDoS Detection for Consumer Internet of Things Devices](https://arxiv.org/pdf/1804.04159.pdf)
-* [Anomaly Detection in Computer System
-by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-content/uploads/2018/06/33-43-226-18_4.-Sheluhin.pdf)
 * [EMBER: An Open Dataset for Training Static PE Malware Machine Learning Models](https://arxiv.org/pdf/1804.04637.pdf)
 * [A state-of-the-art survey of malware detection approaches using data mining techniques.](https://link.springer.com/article/10.1186/s13673-018-0125-x)
 * [Investigation of malicious portable executable file detection on network using supervised learning techniques.](https://www.researchgate.net/publication/318665164_Investigation_of_malicious_portable_executable_file_detection_on_the_network_using_supervised_learning_techniques)
@@ -175,12 +167,10 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Machine Learning for Red Teams, Part 1](https://silentbreaksecurity.com/machine-learning-for-red-teams-part-1/)
 * [Detecting Reverse Shell with Machine Learning](https://www.cyberbit.com/blog/endpoint-security/detecting-reverse-shell-with-machine-learning/)
 * [Obfuscated Command Line Detection Using Machine Learning](https://www.fireeye.com/blog/threat-research/2018/11/obfuscated-command-line-detection-using-machine-learning.html)
-* [Обнаружение веб-атак с помощью рекуррентных нейронных сетей (RUS)](https://habr.com/ru/company/pt/blog/439202/)
 * [Clear and Creepy Danger of Machine Learning: Hacking Passwords](https://towardsdatascience.com/clear-and-creepy-danger-of-machine-learning-hacking-passwords-a01a7d6076d5)
 * [Discovering anomalous patterns based on parent-child process relationships](https://www.elastic.co/cn/blog/discovering-anomalous-patterns-based-on-parent-child-process-relationships)
 * [Machine Learning for Detecting Phishing Websites](https://faizanahmad.tech/blog/2020/02/phishytics-machine-learning-for-phishing-websites-detection/)
 * [Password Hunting with ML in Active Directory](https://blog.hunniccyber.com/password-hunting-with-ml-in-active-directory/)
-* [Как самому разработать систему обнаружения компьютерных атак на основе машинного обучения (RUS)](https://habr.com/ru/post/538296/)
 
 ## [↑](#table-of-contents) Courses
 
