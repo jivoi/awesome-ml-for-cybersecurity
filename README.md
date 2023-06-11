@@ -158,6 +158,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 ## [↑](#table-of-contents) Tutorials
 
 * [Machine Learning based Password Strength Classification](http://web.archive.org/web/20170606022743/http://fsecurify.com/machine-learning-based-password-strength-checking/)
+* [Using Machine Learning to Classify Packet Captures](https://medium.com/@siddharthsatpathy.ss/introducing-flowmeter-97e0507862b6)
 * [Using Machine Learning to Detect Malicious URLs](http://web.archive.org/web/20170514093208/http://fsecurify.com/using-machine-learning-detect-malicious-urls/)
 * [Using deep learning to break a Captcha system](https://deepmlblog.wordpress.com/2016/01/03/how-to-break-a-captcha-system/)
 * [Data mining for network security and intrusion detection](https://www.r-bloggers.com/data-mining-for-network-security-and-intrusion-detection/)
@@ -193,7 +194,8 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 ## [↑](#table-of-contents) Miscellaneous
 
 * [System predicts 85 percent of cyber-attacks using input from human experts](http://news.mit.edu/2016/ai-system-predicts-85-percent-cyber-attacks-using-input-human-experts-0418)
-* [A list of open source projects in cyber security using machine learning](http://www.mlsecproject.org/#open-source-projects)
+* [Machine learning tool for classification of packets by looking at packet headers](https://github.com/deepfence/FlowMeter)
+* [A list of open source projects in cyber security using machine learning](http://www.mlsec.org/)
 * [Source code about machine learning and security](https://github.com/13o-bbr-bbq/machine_learning_security)
 * [Source code for Mastering Machine Learning for Penetration Testing](https://github.com/PacktPublishing/Mastering-Machine-Learning-for-Penetration-Testing)
 * [Convolutional neural network for analyzing pentest screenshots](https://github.com/BishopFox/eyeballer)
