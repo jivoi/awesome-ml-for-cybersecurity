@@ -20,6 +20,7 @@
 
 ## [↑](#table-of-contents) 数据集
 
+* [HIKARI-2021 数据集](https://zenodo.org/record/5199540)
 * [安全相关数据样本集](http://www.secrepo.com/)
 * [DARPA 入侵检测数据集](https://www.ll.mit.edu/r-d/datasets) [ [1998](https://www.ll.mit.edu/r-d/datasets/1998-darpa-intrusion-detection-evaluation-dataset) / [1999](https://www.ll.mit.edu/r-d/datasets/1999-darpa-intrusion-detection-evaluation-dataset) ]
 * [Stratosphere IPS 数据集](https://stratosphereips.org/category/dataset.html)
@@ -44,9 +45,11 @@
 * [SHERLOCK](http://bigdata.ise.bgu.ac.il/sherlock/index.html#/)
 * [探测/端口扫描数据集](https://github.com/gubertoli/ProbingDataset)
 * [Aegean Wireless Intrusion Dataset（Aegean 无线入侵数据集）](http://icsdweb.aegean.gr/awid/)
+* [BODMAS PE 恶意软件数据集](https://whyisyoung.github.io/BODMAS/)
 
 ## [↑](#table-of-contents) 论文
 
+* [基于真实加密攻击流量生成的网络入侵检测数据集](https://www.mdpi.com/2076-3417/11/17/7868/htm)
 * [快速、可靠、准确：使用神经网络建模猜测密码](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/melicher)
 * [封闭世界之外，应用机器学习在网络入侵检测](http://ieeexplore.ieee.org/document/5504793/?reload=true)
 * [基于 Payload 的异常网络入侵检测](https://link.springer.com/chapter/10.1007/978-3-540-30143-1_11)
@@ -89,6 +92,8 @@
 * [使用机器学习进行网络入侵检测](https://personal.utdallas.edu/~muratk/courses/dmsec_files/oakland10-ml.pdf)
 * [基于机器学习的工业物联网网络漏洞分析](https://arxiv.org/abs/1911.05771)
 * [Hopper: 建模检测横向移动](https://arxiv.org/pdf/2105.13442.pdf1)
+* [通过强化学习寻找有效的安全策略](https://arxiv.org/abs/2009.08120)
+* [利用最优停止理论进行入侵防御](https://arxiv.org/abs/2111.00289)
 
 ## [↑](#table-of-contents) 书籍
 
