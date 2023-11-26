@@ -95,6 +95,9 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Hopper: Modeling and Detecting Lateral Movement](https://arxiv.org/pdf/2105.13442.pdf1)
 * [Finding Effective Security Strategies through Reinforcement Learning and Self-Play](https://arxiv.org/abs/2009.08120)
 * [Intrusion Prevention through Optimal Stopping](https://arxiv.org/abs/2111.00289)
+* [Cyber Risk Management: AI-Generated Warnings of Threats (Thesis)](https://stacks.stanford.edu/file/druid:mw190gm2975/faberSubmission-augmented.pdf)
+
+
 
 ## [↑](#table-of-contents) Books
 
