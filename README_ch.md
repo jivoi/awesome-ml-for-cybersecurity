@@ -94,6 +94,7 @@
 * [Hopper: 建模检测横向移动](https://arxiv.org/pdf/2105.13442.pdf1)
 * [通过强化学习寻找有效的安全策略](https://arxiv.org/abs/2009.08120)
 * [利用最优停止理论进行入侵防御](https://arxiv.org/abs/2111.00289)
+* [网络风险管理：AI 生成的威胁](https://stacks.stanford.edu/file/druid:mw190gm2975/faberSubmission-augmented.pdf)
 
 ## [↑](#table-of-contents) 书籍
 
@@ -156,8 +157,9 @@
 
 ## [↑](#table-of-contents) 教程
 
-* [基于机器学习的密码强度分类](http://fsecurify.com/machine-learning-based-password-strength-checking/)
-* [应用机器学习在检测恶意 URL](http://fsecurify.com/using-machine-learning-detect-malicious-urls/)
+* [基于机器学习的密码强度分类](http://web.archive.org/web/20170606022743/http://fsecurify.com/machine-learning-based-password-strength-checking/)
+* [使用机器学习分类捕获数据包](https://medium.com/@siddharthsatpathy.ss/introducing-flowmeter-97e0507862b6)
+* [应用机器学习在检测恶意 URL](http://web.archive.org/web/20170514093208/http://fsecurify.com/using-machine-learning-detect-malicious-urls/)
 * [使用深度学习突破验证码](https://deepmlblog.wordpress.com/2016/01/03/how-to-break-a-captcha-system/)
 * [网络安全与入侵检测中的数据挖掘](https://www.r-bloggers.com/data-mining-for-network-security-and-intrusion-detection/)
 * [应用机器学习提高入侵检测系统](https://securityintelligence.com/applying-machine-learning-to-improve-your-intrusion-detection-system/)
@@ -192,7 +194,8 @@
 ## [↑](#table-of-contents) 杂项
 
 * [使用人类专家的输入对网络攻击达到 85% 的预测系统](http://news.mit.edu/2016/ai-system-predicts-85-percent-cyber-attacks-using-input-human-experts-0418)
-* [使用机器学习的网络安全项目开源列表](http://www.mlsecproject.org/#open-source-projects)
+* [根据包头对数据包分类的机器学习工具](https://github.com/deepfence/FlowMeter)
+* [使用机器学习的网络安全项目开源列表](http://www.mlsec.org/)
 * [关于机器学习和安全的源码](https://github.com/13o-bbr-bbq/machine_learning_security)
 * [精通渗透测试中的机器学习源码](https://github.com/PacktPublishing/Mastering-Machine-Learning-for-Penetration-Testing)
 * [用于分析渗透测试的 CNN](https://github.com/BishopFox/eyeballer)
