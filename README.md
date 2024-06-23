@@ -4,6 +4,10 @@
 
 A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security.
 
+## Ferramentas CyberSecurity Contribuição Israel Miacci Santos
+
+- [Wireshark](https://www.wireshark.org/) - Analisador de pacotes de rede.
+
 ## Table of Contents
 
  - [Datasets](#-datasets)
@@ -109,6 +113,12 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Mastering Machine Learning for Penetration Testing](https://www.packtpub.com/networking-and-servers/mastering-machine-learning-penetration-testing)
 * [Malware Data Science: Attack Detection and Attribution](https://nostarch.com/malwaredatascience)
 
+* [The Web Application Hacker's Handbook](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470) - Livro sobre segurança de aplicações web.
+
+## Blogs Contribuição Israel Miacci Santos
+
+- [Krebs on Security](https://krebsonsecurity.com/) - Blog de segurança cibernética por Brian Krebs.
+
 ## [↑](#table-of-contents) Talks
 
 * [Using Machine Learning to Support Information Security](https://www.youtube.com/watch?v=tukidI5vuBs)
@@ -193,6 +203,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Cybersecurity Data Science on Udemy](https://www.udemy.com/cybersecurity-data-science)
 * [Machine Learning for Red Team Hackers on Udemy](https://www.udemy.com/course/machine-learning-for-red-team-hackers/)
 * [Machine Learning for Security](https://security.kiwi/docs/introduction/)
+* [Curso de Segurança da Informação](https://www.coursera.org/learn/security) - Curso introdutório sobre segurança da informação no Coursera.s=
 
 ## [↑](#table-of-contents) Miscellaneous
 
