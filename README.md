@@ -96,8 +96,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Finding Effective Security Strategies through Reinforcement Learning and Self-Play](https://arxiv.org/abs/2009.08120)
 * [Intrusion Prevention through Optimal Stopping](https://arxiv.org/abs/2111.00289)
 * [Cyber Risk Management: AI-Generated Warnings of Threats (Thesis)](https://stacks.stanford.edu/file/druid:mw190gm2975/faberSubmission-augmented.pdf)
-
-
+* [Ultimate Guide to AI Security](https://www.bugcrowd.com/wp-content/uploads/2024/04/Ultimate-Guide-AI-Security.pdf)
 
 ## [↑](#table-of-contents) Books
 
