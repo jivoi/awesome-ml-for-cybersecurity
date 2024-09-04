@@ -46,6 +46,8 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Probing / Port Scan - Dataset ](https://github.com/gubertoli/ProbingDataset)
 * [Aegean Wireless Intrusion Dataset (AWID)](http://icsdweb.aegean.gr/awid/)
 * [BODMAS PE Malware Dataset](https://whyisyoung.github.io/BODMAS/)
+* [QuasarNix: Linux Living-off-the-Land Reverse-Shells](https://huggingface.co/datasets/dtrizna/QuasarNix)
+* [Quo Vadis: Dynamic Malware Analysis Dataset](https://www.kaggle.com/datasets/dmitrijstrizna/quo-vadis-malware-emulation)
 
 ## [↑](#table-of-contents) Papers
 
