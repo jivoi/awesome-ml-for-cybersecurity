@@ -49,6 +49,10 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 
 ## [↑](#table-of-contents) Papers
 
+* [Network Intrusion Detection Packet Classification with the HIKARI-2021 Dataset: a study on ML Algorithms](https://ieeexplore.ieee.org/abstract/document/9800807)
+* [The impact of identifiable features in ML Classification algorithms with the HIKARI-2021 Dataset](https://ieeexplore.ieee.org/abstract/document/10131864)
+* [A Simple Distributed Approach for Running Machine Learning Based Simulations in Intrusion Detection Systems](https://link.springer.com/chapter/10.1007/978-3-031-51572-9_6)
+* [Performance Study on the Use of Genetic Algorithm for Reducing Feature Dimensionality in an Embedded Intrusion Detection System](https://www.mdpi.com/2079-8954/12/7/243)
 * [Generating Network Intrusion Detection Dataset Based on Real and Encrypted Synthetic Attack Traffic](https://www.mdpi.com/2076-3417/11/17/7868/htm)
 * [Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/melicher)
 * [Outside the Closed World: On Using Machine Learning for Network Intrusion Detection](http://ieeexplore.ieee.org/document/5504793/?reload=true)
