@@ -2,7 +2,7 @@
 
 
 **“We welcome different opinions — if you believe something should be added or removed, please provide a short explanation. 
-Let’s build this resource together!”
+Let’s build this resource together!**
 
 
 ## Please ensure your pull request adheres to the following guidelines:
