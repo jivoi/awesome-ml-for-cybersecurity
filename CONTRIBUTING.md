@@ -1,6 +1,11 @@
 # Contribution Guidelines
 
-Please ensure your pull request adheres to the following guidelines:
+
+**“We welcome different opinions — if you believe something should be added or removed, please provide a short explanation. 
+Let’s build this resource together!”
+
+
+## Please ensure your pull request adheres to the following guidelines:
 
 - Read [the awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) and ensure your list complies.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
@@ -15,4 +20,4 @@ Please ensure your pull request adheres to the following guidelines:
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request and commit should have a useful title.
 
-Thank you for your suggestions!
+**Thank you for your suggestions!**
