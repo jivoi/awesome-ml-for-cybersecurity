@@ -1,0 +1,14 @@
+# Introduction
+
+This document contains curated content based on the awesome-ml-for-cybersecurity project.
+
+## Key Contributions
+
+**Contribution 1**: Added official Awesome badge to the README.  
+**Contribution 2**: Improved descriptions for 10 ML-based cybersecurity tools.  
+**Contribution 3**: Created a contribution guideline using the Awesome Manifesto.
+
+## Future Improvements
+
+- Add visual tags for ML type (supervised, unsupervised, etc.)
+- Group tools by task (e.g., malware detection, anomaly detection)
