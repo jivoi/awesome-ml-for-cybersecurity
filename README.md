@@ -1,4 +1,4 @@
-# Awesome Machine Learning for Cyber Security [![Awesom](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+      # Awesome Machine Learning for Cyber Security [![Awesom](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://github.com/jivoi/awesome-ml-for-cybersecurity/raw/master/cyber-ml-logo.png" align="right" width="100">](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 
