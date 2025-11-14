@@ -197,6 +197,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 ## [↑](#table-of-contents) Miscellaneous
 
 * [System predicts 85 percent of cyber-attacks using input from human experts](http://news.mit.edu/2016/ai-system-predicts-85-percent-cyber-attacks-using-input-human-experts-0418)
+* [MalwareBazaar API](https://bazaar.abuse.ch/api/) - API providing access to malware samples and metadata, widely used for threat intelligence, malware research, and ML-based analysis.
 * [Machine learning tool for classification of packets by looking at packet headers](https://github.com/deepfence/FlowMeter)
 * [A list of open source projects in cyber security using machine learning](http://www.mlsec.org/)
 * [Source code about machine learning and security](https://github.com/13o-bbr-bbq/machine_learning_security)
