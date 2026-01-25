@@ -12,6 +12,7 @@ A curated list of amazingly awesome tools and resources related to the use of ma
  - [Talks](#-talks)
  - [Tutorials](#-tutorials)
  - [Courses](#-courses)
+ - [Tools & Frameworks](#-tools--frameworks)
  - [Miscellaneous](#-miscellaneous)
 
 ## [↑](#table-of-contents) Contributing
@@ -194,16 +195,30 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Machine Learning for Red Team Hackers on Udemy](https://www.udemy.com/course/machine-learning-for-red-team-hackers/)
 * [Machine Learning for Security](https://security.kiwi/docs/introduction/)
 
+## [↑](#table-of-contents) Tools & Frameworks
+
+* [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - A library for benchmarking and defending ML models against adversarial attacks (evasion, poisoning, etc.).
+* [PyRIT (Python Risk Identification Tool)](https://github.com/microsoft/pyrit) - Microsoft's open-source library for Red Teaming generative AI systems.
+* [Garak](https://github.com/leondz/garak) - LLM vulnerability scanner checking for hallucinations, jailbreaks, and prompt injections.
+* [Counterfit](https://github.com/microsoft/counterfit) - Automation tool for security assessments against machine learning models.
+* [Promptfoo](https://github.com/promptfoo/promptfoo) - Test LLM prompts against common vulnerabilities like injections and PII leaks.
+* [Rebuff](https://github.com/protectai/rebuff) - Multi-layered defense framework designed to stop prompt injection attacks.
+* [SecML](https://github.com/pralab/secml) - Python library for ML security, focusing on adversarial attacks and explainability.
+* [CyberBattleSim](https://github.com/microsoft/CyberBattleSim) - Reinforcement learning simulation for modeling attacker movement through a network.
+* [ModelScan](https://github.com/protectai/modelscan) - Scans serialized models (H5, Pickle, etc.) for malicious code or "model bombs."
+* [NB Defense](https://github.com/protectai/nb-defense) - Scans Jupyter Notebooks for secrets, PII, and vulnerable dependencies.
+* [DeepExploit](https://github.com/13o-bbr-bbq/DeepExploit) - Automated penetration testing tool using Reinforcement Learning.
+* [FlowMeter](https://github.com/deepfence/FlowMeter) - Machine learning tool for classification of packets by looking at packet headers.
+* [eyeballer](https://github.com/BishopFox/eyeballer) - Convolutional neural network for analyzing pentest screenshots.
+* [StringSifter](https://github.com/fireeye/stringsifter) - A machine learning tool that ranks strings based on their relevance for malware analysis.
+
 ## [↑](#table-of-contents) Miscellaneous
 
 * [System predicts 85 percent of cyber-attacks using input from human experts](http://news.mit.edu/2016/ai-system-predicts-85-percent-cyber-attacks-using-input-human-experts-0418)
-* [Machine learning tool for classification of packets by looking at packet headers](https://github.com/deepfence/FlowMeter)
 * [A list of open source projects in cyber security using machine learning](http://www.mlsec.org/)
 * [Source code about machine learning and security](https://github.com/13o-bbr-bbq/machine_learning_security)
 * [Source code for Mastering Machine Learning for Penetration Testing](https://github.com/PacktPublishing/Mastering-Machine-Learning-for-Penetration-Testing)
-* [Convolutional neural network for analyzing pentest screenshots](https://github.com/BishopFox/eyeballer)
 * [Big Data and Data Science for Security and Fraud Detection](http://www.kdnuggets.com/2015/12/big-data-science-security-fraud-detection.html)
-* [StringSifter - a machine learning tool that ranks strings based on their relevance for malware analysis](https://github.com/fireeye/stringsifter)
 
 ## License
 
