@@ -194,6 +194,12 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Machine Learning for Red Team Hackers on Udemy](https://www.udemy.com/course/machine-learning-for-red-team-hackers/)
 * [Machine Learning for Security](https://security.kiwi/docs/introduction/)
 
+## [↑](#table-of-contents) AI Security Testing Frameworks
+
+* [Tessera](https://github.com/tessera-ops/tessera) - OWASP-aligned AI security testing framework. 42 automated tests across 5 categories (Model, Application, Infrastructure, Data Governance, Agentic AI). First framework with complete OWASP Agentic AI Top 10 coverage. Apache 2.0.
+* [Garak](https://github.com/NVIDIA/garak) - LLM vulnerability scanner by NVIDIA.
+* [PyRIT](https://github.com/Azure/PyRIT) - Python Risk Identification Toolkit for Generative AI by Microsoft.
+
 ## [↑](#table-of-contents) Miscellaneous
 
 * [System predicts 85 percent of cyber-attacks using input from human experts](http://news.mit.edu/2016/ai-system-predicts-85-percent-cyber-attacks-using-input-human-experts-0418)
