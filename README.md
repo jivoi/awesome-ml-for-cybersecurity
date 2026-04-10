@@ -4,6 +4,7 @@
 
 A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security.
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=jivoi_awesome-ml-for-cybersecurity) - Follow developers on GitHub and get a feed of what they star and build.
 ## Table of Contents
 
  - [Datasets](#-datasets)
