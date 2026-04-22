@@ -101,6 +101,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 
 ## [↑](#table-of-contents) Books
 
+* [AI Agents for Offensive Security: Understanding AI-powered attacks and how to stop them](https://www.manning.com/books/ai-agents-for-offensive-security)
 * [Data Mining and Machine Learning in Cybersecurity](https://www.amazon.com/Data-Mining-Machine-Learning-Cybersecurity/dp/1439839425)
 * [Machine Learning and Data Mining for Computer Security](https://www.amazon.com/Machine-Learning-Mining-Computer-Security/dp/184628029X)
 * [Network Anomaly Detection: A Machine Learning Perspective](https://www.amazon.com/Network-Anomaly-Detection-Learning-Perspective/dp/1466582081)
