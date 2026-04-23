@@ -193,6 +193,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Cybersecurity Data Science on Udemy](https://www.udemy.com/cybersecurity-data-science)
 * [Machine Learning for Red Team Hackers on Udemy](https://www.udemy.com/course/machine-learning-for-red-team-hackers/)
 * [Machine Learning for Security](https://security.kiwi/docs/introduction/)
+* [PromptTrace](https://prompttrace.airedlab.com) - Free hands-on AI security training platform. Practice prompt injection, RAG poisoning, and tool exploitation against real LLMs with full prompt stack visibility. Includes 10 labs, a 15-level CTF (The Gauntlet), and 9 learning modules aligned with OWASP Top 10 for LLMs.
 
 ## [↑](#table-of-contents) Miscellaneous
 
