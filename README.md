@@ -204,6 +204,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Convolutional neural network for analyzing pentest screenshots](https://github.com/BishopFox/eyeballer)
 * [Big Data and Data Science for Security and Fraud Detection](http://www.kdnuggets.com/2015/12/big-data-science-security-fraud-detection.html)
 * [StringSifter - a machine learning tool that ranks strings based on their relevance for malware analysis](https://github.com/fireeye/stringsifter)
+* [mcp-safeguard](https://github.com/SyedAnas01/mcp-safeguard) - Security scanner for MCP (Model Context Protocol) servers used by AI agents. Detects prompt injection, credential leaks, exposed endpoints, and tool poisoning with CVSS scoring.
 
 ## License
 
