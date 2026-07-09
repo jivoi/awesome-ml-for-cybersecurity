@@ -7,6 +7,9 @@ A curated list of amazingly awesome tools and resources related to the use of ma
 * [Violin](https://github.com/Strategic-Automation/violin) - AI-native pentest framework and Hermes agent profile/plugin for autonomous, human-in-the-loop offensive security (IDOR/SSRF/XSS triage, multi-stage agentic testing).
 
 
+* [Violin](https://github.com/Strategic-Automation/violin) - AI-native pentest framework and Hermes agent profile/plugin for autonomous, human-in-the-loop offensive security (IDOR/SSRF/XSS triage, multi-stage agentic testing).
+
+
 ## Table of Contents
 
  - [Datasets](#-datasets)
