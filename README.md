@@ -204,6 +204,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Convolutional neural network for analyzing pentest screenshots](https://github.com/BishopFox/eyeballer)
 * [Big Data and Data Science for Security and Fraud Detection](http://www.kdnuggets.com/2015/12/big-data-science-security-fraud-detection.html)
 * [StringSifter - a machine learning tool that ranks strings based on their relevance for malware analysis](https://github.com/fireeye/stringsifter)
+* [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 ## License
 
